@@ -1,0 +1,22 @@
+baseURL = 'https://3colorr.github.io/'
+languageCode = 'en-us'
+title = 'Mizuame'
+theme = 'ananke'
+
+[languages]
+  [languages.en]
+    title = "Mizuame"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.ja]
+    title = "Mizuame"
+    weight = 2
+    contentDir = 'content/ja'
+
+[params]
+#  background_color_class = 'bg-gray'
+
+  [[params.ananke_socials]]
+    name = 'Github'
+    url = 'https://github.com/3colorr/Mizuame'

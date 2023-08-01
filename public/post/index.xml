@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mizuame</title>
+    <link>https://3colorr.github.io/mizuame/post/</link>
+    <description>Recent content on Mizuame</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/mizuame/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mizuame v0.1.0</title>
+      <link>https://3colorr.github.io/mizuame/post/new-release.-mizuame-v0.1.0/</link>
+      <pubDate>Mon, 17 Jul 2023 14:34:21 +0900</pubDate>
+      
+      <guid>https://3colorr.github.io/mizuame/post/new-release.-mizuame-v0.1.0/</guid>
+      <description>New Release We released Mizuame v0.1.0!
+The note on menu bar. Auto save. Some note theme. Change note size. Change font size. And more. </description>
+    </item>
+    
+  </channel>
+</rss>
