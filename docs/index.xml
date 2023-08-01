@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mizuame</title>
-    <link>https://3colorr.github.io/mizuame/</link>
+    <link>https://3colorr.github.io/Mizuame-pages/</link>
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/mizuame/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mizuame v0.1.0</title>
-      <link>https://3colorr.github.io/mizuame/post/new-release.-mizuame-v0.1.0/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v0.1.0/</link>
       <pubDate>Mon, 17 Jul 2023 14:34:21 +0900</pubDate>
       
-      <guid>https://3colorr.github.io/mizuame/post/new-release.-mizuame-v0.1.0/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v0.1.0/</guid>
       <description>New Release We released Mizuame v0.1.0!
 The note on menu bar. Auto save. Some note theme. Change note size. Change font size. And more. </description>
     </item>
     
     <item>
       <title>Features</title>
-      <link>https://3colorr.github.io/mizuame/features/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://3colorr.github.io/mizuame/features/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/features/</guid>
       <description>A sticky note The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance sticky note app. Auto-save every time you type. Themes You can choose a theme.
 For example, &amp;ldquo;White and Blue&amp;rdquo;, &amp;ldquo;White and Pink&amp;rdquo; and more. White and Blue White and Pink Light/Dark mode Light Mode Dark Mode Others You can change the font size and size of stiky note from &amp;ldquo;Settings&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>https://3colorr.github.io/mizuame/license/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://3colorr.github.io/mizuame/license/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/license/</guid>
       <description>Author 3colorr (Akira Nakamura) Email 3color@gmail.com Works https://3colorr.github.io/works X(Twitter) @3colorr (https://twitter.com/3colorr) About the app Mizuame 3colorr(Akira Nakamura) MIT Lisence https://github.com/3colorr/Mizuame About this website This website uses the following software.
 Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/bep) Apache-2.0 license https://github.com/gohugoio/hugo gohugo-theme-ananke the New Dynamic/Bud Parr(https://github.com/theNewDynamic) MIT Lisence https://github.com/theNewDynamic/gohugo-theme-ananke </description>
     </item>
     
     <item>
       <title>Policy&amp;Terms</title>
-      <link>https://3colorr.github.io/mizuame/privacy-terms/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/privacy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://3colorr.github.io/mizuame/privacy-terms/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/privacy-terms/</guid>
       <description>Terms of service &amp;ldquo;Mizuame (referred to as &amp;ldquo;The Apps&amp;rdquo;)&amp;rdquo; is owned by Akira Nakamura(3Colorr). (referred to as &amp;ldquo;I&amp;rdquo;, &amp;ldquo;Me&amp;rdquo;, &amp;ldquo;Our&amp;rdquo;, &amp;ldquo;We&amp;rdquo;, &amp;ldquo;The Authors&amp;rdquo; or &amp;ldquo;Copyright holders&amp;rdquo;). You are a &amp;ldquo;User&amp;rdquo; or &amp;ldquo;You&amp;rdquo; according to this agreement.
 Your access to and use of the Apps are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Apps you agree to be bound by these Terms. About the use The Apps is open source software, under the MIT Lisence.</description>
     </item>
