@@ -10,7 +10,7 @@ This app is a note on menu bar of Mac.
 However, this app is NOT a high performance note app so that you should use other better apps to save your important data.  
 If you store data that is not very important, I would be happy if you could make this app one of your choices.
 
-{{< figure src="/images/MizuameLogo.png" title="" >}}
+{{< figure src="/Mizuame-pages/images/MizuameLogo.png" title="" >}}
 
 # Install
 ### App Store

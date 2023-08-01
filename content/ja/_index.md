@@ -10,7 +10,7 @@ cascade:
 しかしながら、これは高機能なノートアプリではありません。なので、あなたの大切なデータは他のもっと良いアプリに保存するべきです。  
 あまり大切ではないデータの保存でしたら、このアプリを選択肢の１つにしてもらえるとうれしいです。
 
-{{< figure src="/images/MizuameLogo.png" title="" >}}
+{{< figure src="/Mizuame-pages/images/MizuameLogo.png" title="" >}}
 
 # インストール
 ### App Store
