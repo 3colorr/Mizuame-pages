@@ -2,6 +2,36 @@
 "Mizuame" is the note app on menu bar of Mac.  
 [https://github.com/3colorr/Mizuame](https://github.com/3colorr/Mizuame)
 
+## Quick start
+You need install 'hugo' first.  
+And then, `git clone` some projects.  
+Please, checkout new branch to your works from main branch.
+
+```
+git clone https://github.com/3colorr/Mizuame-pages.git
+
+cd Mizuame-pages
+
+git checkout -b dev
+
+git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+
+hugo server
+==> Access localhost:1313/Mizuame-pages/
+```
+
+After editing some files, I need to copy all files and folders in public/ to docs/.  
+
+```
+cp -r public/* docs/
+
+git add [files]
+
+git commit -m "commit messages"
+
+git push origin dev
+```
+
 ## About this website
 This website uses the following software.
 ### Thanks for the awesome software!!
