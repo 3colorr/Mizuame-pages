@@ -20,12 +20,12 @@ hugo server
 ==> Access localhost:1313/Mizuame-pages/
 ```
 
-After editing some files, I need to copy all files and folders in public/ to docs/.  
+After editing some files, I need to build with `hugo` command.  
 
 ```
-cp -r public/* docs/
+hugo -d docs/
 
-git add [files]
+git add -A [or files]
 
 git commit -m "commit messages"
 
