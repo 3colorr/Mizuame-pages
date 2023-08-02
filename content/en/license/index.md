@@ -23,7 +23,12 @@ menu:
   - [https://github.com/3colorr/Mizuame](https://github.com/3colorr/Mizuame)
 
 ## About this website
-This website uses the following software.
+- Repository
+  - https://github.com/3colorr/Mizuame-pages
+
+  
+This website uses the following software.  
+
 ### Thanks for the awesome software!!
 - hugo
   - Bjørn Erik Pedersen([https://github.com/bep](https://github.com/bep))
