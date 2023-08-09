@@ -14,7 +14,7 @@ If you store data that is not very important, I would be happy if you could make
 
 # Install
 ### App Store
-I'm not ready.  
+Search for "Mizuame".  
 
 ### Build
 You should "git clone" from  
