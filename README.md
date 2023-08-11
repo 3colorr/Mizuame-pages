@@ -1,6 +1,9 @@
 ## This is "Mizuame" home page
 "Mizuame" is the note app on menu bar of Mac.  
-[https://github.com/3colorr/Mizuame](https://github.com/3colorr/Mizuame)
+[https://github.com/3colorr/Mizuame](https://github.com/3colorr/Mizuame)  
+
+Pages  
+[https://3colorr.github.io/Mizuame-pages/](https://3colorr.github.io/Mizuame-pages/)  
 
 ## Quick start
 You need install 'hugo' first.  
