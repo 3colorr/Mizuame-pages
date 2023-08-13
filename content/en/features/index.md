@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
 ---
-# A sticky note
+# A note
 The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance sticky note app.
 {{< figure src="/Mizuame-pages/images/open-type-close.gif" title="Auto-save every time you type." >}}
 
