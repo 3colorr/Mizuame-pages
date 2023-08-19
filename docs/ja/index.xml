@@ -30,6 +30,24 @@ AppStoreでもMizuameをリリースしました。
     </item>
     
     <item>
+      <title>ドキュメント</title>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/docs/</guid>
+      <description>クイックスタート 基本的な使い方 ヒント トラブルシューティング クイックスタート インストール MizuameをMacにインストールする方法は２つあります。
+AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と検索します AppStoreからダウンロードしてインストールします プロジェクトをビルド git clone https://github.com/3colorr/Mizuame.git Xcodeでビルドする 基本的な使い方 ノートを書く Mizuameを起動します 起動後、メニューバーにMizuameのアイコンが表示されます メニューバーにあるMizuameのアイコンをクリックしてノートを開きます あなたは文字入力やそれらのコピー＆ペーストができます ノートは自動保存されます ノート以外の部分をクリックするとノートは閉じられます もしMizuameを終了したい場合は、Mizuameのメニューにある電源アイコンをクリックします 設定セクションも確認してください メニュー Menu 電源アイコン Mizuameを終了できます コンテキストメニューからも終了できます 消しゴムアイコン ノートの内容をすべて削除できます 歯車アイコン 設定を開きます 設定セクションも確認してください 設定 以下のタブがあります。
+一般 ノート 印刷 ヘルプ 情報 一般タブ 以下のMizuameの動作を変更できます。
+保存中のメッセージを表示する/しない ノートタブ フォントサイズやノートのサイズ、テーマなどを変更できます。
+もし設定をリセットしたい場合は、画面下にあるリセットボタンをクリックします。
+印刷タブ 以下の印刷設定を変更できます。
+余白 倍率（スケール） 上下左右の中央揃え 「余白」と「上下左右の中央揃え」は、印刷タブからのみ変更できます。
+ヘルプタブ 基本的な使い方とメニューの説明が載っています。
+情報タブ ライセンスや利用規約、プライバシーポリシー、連絡先が載っています。
+ヒント Macの起動時にMiauameを起動させたいです Macのログイン項目 -&amp;gt; ログイン時に開くにMizuameを追加してください トラブルシューティング まだ準備できていません。</description>
+    </item>
+    
+    <item>
       <title>ポリシーと規約</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
