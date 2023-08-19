@@ -30,12 +30,22 @@ The note on menu bar. Auto save. Some note theme. Change note size. Change font 
     </item>
     
     <item>
+      <title>Documentation</title>
+      <link>https://3colorr.github.io/Mizuame-pages/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://3colorr.github.io/Mizuame-pages/docs/</guid>
+      <description>Quick start Basic usage Hint Troubleshooting Quick start Install There are two way to install Mizuame on your Mac.
+AppStore(Recommend) Click here or Search for &amp;ldquo;Mizuame&amp;rdquo; in AppStore. Download and install from AppStore. Build from project git clone https://github.com/3colorr/Mizuame.git Build by Xcode. Basic usage Write note Launch the Mizuame. After launch, Mizuame&amp;rsquo;s icon displayed on menu bar. You can open the note with clicking Mizuame&amp;rsquo;s icon on menu bar. You can typing, copy and paste.</description>
+    </item>
+    
+    <item>
       <title>Features</title>
       <link>https://3colorr.github.io/Mizuame-pages/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://3colorr.github.io/Mizuame-pages/features/</guid>
-      <description>A sticky note The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance sticky note app. Auto-save every time you type. Themes You can choose a theme.
+      <description>A note The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app. Auto-save every time you type. Themes You can choose a theme.
 For example, &amp;ldquo;White and Blue&amp;rdquo;, &amp;ldquo;White and Pink&amp;rdquo; and more. White and Blue White and Pink Light/Dark mode Light Mode Dark Mode Others You can change the font size and size of stiky note from &amp;ldquo;Settings&amp;rdquo;.</description>
     </item>
     

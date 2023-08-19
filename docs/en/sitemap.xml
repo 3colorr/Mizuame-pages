@@ -66,6 +66,18 @@
                 href="https://3colorr.github.io/Mizuame-pages/categories/"
                 />
   </url><url>
+    <loc>https://3colorr.github.io/Mizuame-pages/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://3colorr.github.io/Mizuame-pages/ja/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://3colorr.github.io/Mizuame-pages/docs/"
+                />
+  </url><url>
     <loc>https://3colorr.github.io/Mizuame-pages/features/</loc>
     <xhtml:link
                 rel="alternate"

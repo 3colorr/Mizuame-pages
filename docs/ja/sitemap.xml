@@ -78,6 +78,18 @@
                 href="https://3colorr.github.io/Mizuame-pages/ja/tags/"
                 />
   </url><url>
+    <loc>https://3colorr.github.io/Mizuame-pages/ja/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://3colorr.github.io/Mizuame-pages/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://3colorr.github.io/Mizuame-pages/ja/docs/"
+                />
+  </url><url>
     <loc>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</loc>
     <xhtml:link
                 rel="alternate"
