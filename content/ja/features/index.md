@@ -14,6 +14,7 @@ menu:
 アプリのテーマを選ぶことができます。  
 例えば、"White and Blue"、"White and Pink"などなどです。
 {{< figure src="/Mizuame-pages/images/sample-theme-image-blue.png" title="White and Blue" >}}
+{{< figure src="/Mizuame-pages/images/sample-theme-image-yellow.png" title="White and Yellow" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-pink.png" title="White and Pink" >}}
 
 # ライトモード/ダークモード
