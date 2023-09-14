@@ -12,7 +12,7 @@ The notes that you type will be saved on your PC. Therefore, you cannot share th
 
 # Themes
 You can choose a theme.  
-For example, "White and Blue", "White and Pink" and more.
+For example, "White and Blue", "White and Yellow", "White and Pink" and more.
 {{< figure src="/Mizuame-pages/images/sample-theme-image-blue.png" title="White and Blue" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-yellow.png" title="White and Yellow" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-pink.png" title="White and Pink" >}}
