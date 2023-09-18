@@ -37,6 +37,8 @@ There are two way to install Mizuame on your Mac.
 - Power icon
    - You can quit the Mizuame.
    - Also, you can quit it from context menu.
+- Pin icon
+   - You can keep the notes open.
 - Eraser icon
    - You cna delete all contents on note.
 - Gear icon
@@ -54,6 +56,7 @@ There are a following tabs.
 #### General tab
 You can change the following note behavior.  
 - Display(or not display) a saving message
+- Enable(or Disable) a `Pin` that allows you to keep notes open.
 
 #### Note tab
 You can change font size, note size, theme, and so on.  
