@@ -8,7 +8,7 @@ menu:
 ---
 # ノート
 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。
-{{< figure src="/Mizuame-pages/images/open-type-close.gif" title="ノートは自動保存します" >}}
+{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="ノートは自動保存します" >}}
 
 # テーマ
 アプリのテーマを選ぶことができます。  
@@ -23,4 +23,4 @@ menu:
 
 # その他
 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。
-{{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="消しゴム、印刷、設定のアイコン" >}}
+{{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="ピン、消しゴム、印刷、設定のアイコン" >}}

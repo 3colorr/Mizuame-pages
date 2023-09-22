@@ -8,7 +8,7 @@ menu:
 ---
 # A note
 The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app.
-{{< figure src="/Mizuame-pages/images/open-type-close.gif" title="Auto-save every time you type." >}}
+{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="Auto-save every time you type." >}}
 
 # Themes
 You can choose a theme.  
@@ -23,4 +23,4 @@ For example, "White and Blue", "White and Yellow", "White and Pink" and more.
 
 # Others
 You can change the font size and size of stiky note from "Settings". I don't know if it's a feature you need, but you can also "Printing".  
-{{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="Eraser, Printing and Settings" >}}
+{{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="Pin, Eraser, Printing and Settings" >}}
