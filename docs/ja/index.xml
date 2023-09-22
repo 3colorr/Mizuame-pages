@@ -6,7 +6,18 @@
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Aug 2023 21:49:39 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 21:46:26 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mizuame v1.1.0</title>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</link>
+      <pubDate>Sat, 16 Sep 2023 21:46:26 +0900</pubDate>
+      
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</guid>
+      <description>New Release Mizuame v1.1.2をリリースしました！
+AppStoreでは近日中にリリースしましす。
+改善 ノートを開いたままにできるピン機能を追加しました 設定の一般タブに設定をリセットするボタンを追加しました バグ修正 ありません その他 ソースコードをリファクタリングしました </description>
+    </item>
+    
     <item>
       <title>Mizuame v1.0.2</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</link>
@@ -36,9 +47,9 @@ AppStoreでもMizuameをリリースしました。
       
       <guid>https://3colorr.github.io/Mizuame-pages/ja/docs/</guid>
       <description>クイックスタート 基本的な使い方 ヒント トラブルシューティング クイックスタート インストール MizuameをMacにインストールする方法は２つあります。
-AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と検索します AppStoreからダウンロードしてインストールします プロジェクトをビルド git clone https://github.com/3colorr/Mizuame.git Xcodeでビルドする 基本的な使い方 ノートを書く Mizuameを起動します 起動後、メニューバーにMizuameのアイコンが表示されます メニューバーにあるMizuameのアイコンをクリックしてノートを開きます あなたは文字入力やそれらのコピー＆ペーストができます ノートは自動保存されます ノート以外の部分をクリックするとノートは閉じられます もしMizuameを終了したい場合は、Mizuameのメニューにある電源アイコンをクリックします 設定セクションも確認してください メニュー Menu 電源アイコン Mizuameを終了できます コンテキストメニューからも終了できます 消しゴムアイコン ノートの内容をすべて削除できます 歯車アイコン 設定を開きます 設定セクションも確認してください 設定 以下のタブがあります。
+AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と検索します AppStoreからダウンロードしてインストールします プロジェクトをビルド git clone https://github.com/3colorr/Mizuame.git Xcodeでビルドする 基本的な使い方 ノートを書く Mizuameを起動します 起動後、メニューバーにMizuameのアイコンが表示されます メニューバーにあるMizuameのアイコンをクリックしてノートを開きます あなたは文字入力やそれらのコピー＆ペーストができます ノートは自動保存されます ノート以外の部分をクリックするとノートは閉じられます もしMizuameを終了したい場合は、Mizuameのメニューにある電源アイコンをクリックします 設定セクションも確認してください メニュー Menu 電源アイコン Mizuameを終了できます コンテキストメニューからも終了できます ピンアイコン ノートを開いたままにできます 消しゴムアイコン ノートの内容をすべて削除できます 歯車アイコン 設定を開きます 設定セクションも確認してください 設定 以下のタブがあります。
 一般 ノート 印刷 ヘルプ 情報 一般タブ 以下のMizuameの動作を変更できます。
-保存中のメッセージを表示する/しない ノートタブ フォントサイズやノートのサイズ、テーマなどを変更できます。
+保存中のメッセージを表示する/しない ノートを開いたままにするピンの有効/無効 ノートタブ フォントサイズやノートのサイズ、テーマなどを変更できます。
 もし設定をリセットしたい場合は、画面下にあるリセットボタンをクリックします。
 印刷タブ 以下の印刷設定を変更できます。
 余白 倍率（スケール） 上下左右の中央揃え 「余白」と「上下左右の中央揃え」は、印刷タブからのみ変更できます。
@@ -79,7 +90,7 @@ Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/b
       
       <guid>https://3colorr.github.io/Mizuame-pages/ja/features/</guid>
       <description>ノート 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。 ノートは自動保存します テーマ アプリのテーマを選ぶことができます。
-例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などなどです。 White and Blue White and Pink ライトモード/ダークモード ライトモード ダークモード その他 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。 消しゴム、印刷、設定のアイコン </description>
+例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Yellow&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などです。 White and Blue White and Yellow White and Pink ライトモード/ダークモード ライトモード ダークモード その他 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。 消しゴム、印刷、設定のアイコン </description>
     </item>
     
   </channel>
