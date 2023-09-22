@@ -8,6 +8,17 @@
     <language>en</language>
     <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mizuame v1.1.0</title>
+      <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.0/</link>
+      <pubDate>Sat, 16 Sep 2023 21:46:26 +0900</pubDate>
+      
+      <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.0/</guid>
+      <description>New Release We released Mizuame v1.1.0!
+we will release the Mizuame on the AppStore in a few days.
+Improvement Implemented a new feature called &amp;ldquo;Pin&amp;rdquo; that allows you to keep notes open. Added &amp;ldquo;Reset settings button&amp;rdquo; to General tab in Settings. Bugfix Nothing Others Refactored the source code. </description>
+    </item>
+    
+    <item>
       <title>Mizuame v1.0.2</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.0.2/</link>
       <pubDate>Wed, 09 Aug 2023 21:49:39 +0900</pubDate>
