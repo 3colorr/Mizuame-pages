@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mizuame</title>
-    <link>localhost:1313/Mizuame-pages/ja/</link>
+    <link>https://3colorr.github.io/Mizuame-pages/ja/</link>
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Oct 2023 14:09:15 +0900</lastBuildDate><atom:link href="localhost:1313/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 14:09:15 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Release. Mizuame V1.1.1</title>
-      <link>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</link>
       <pubDate>Sun, 01 Oct 2023 14:09:15 +0900</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</guid>
       <description>New Release Mizuame v1.1.1をリリースしました！
 AppStoreでは近日中にリリースします。
 改善 macOS 14 (Sonoma)に対応しました。 バグ修正 ありません。 その他 メニューバーのアイコンを右クリックして表示されるメニューから「設定」を削除しました。ノートからも「設定」を開くことができるので不要と判断しました。 </description>
@@ -20,10 +20,10 @@ AppStoreでは近日中にリリースします。
     
     <item>
       <title>Mizuame v1.1.0</title>
-      <link>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</link>
       <pubDate>Sat, 16 Sep 2023 21:46:26 +0900</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</guid>
       <description>New Release Mizuame v1.1.0をリリースしました！
 AppStoreでもMizuameをリリースしました。
 「Mizuame」で検索すると見つかります。
@@ -32,10 +32,10 @@ AppStoreでもMizuameをリリースしました。
     
     <item>
       <title>Mizuame v1.0.2</title>
-      <link>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</link>
       <pubDate>Wed, 09 Aug 2023 21:49:39 +0900</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</guid>
       <description>New Release Mizuame v1.0.2をリリースしました！
 AppStoreでもMizuameをリリースしました。
 「Mizuame」で検索すると見つかります。
@@ -44,20 +44,20 @@ AppStoreでもMizuameをリリースしました。
     
     <item>
       <title>New Release. Mizuame v0.1.0</title>
-      <link>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</link>
       <pubDate>Mon, 17 Jul 2023 14:34:21 +0900</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</guid>
       <description>New Release Mizuame v0.1.0をリリースしました！
 メーニューバーにノートを置く 自動保存 いくつかのノートのテーマ ノートのサイズを変更できる 文字サイズを変更できる その他諸々 </description>
     </item>
     
     <item>
       <title>ドキュメント</title>
-      <link>localhost:1313/Mizuame-pages/ja/docs/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/docs/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/docs/</guid>
       <description>クイックスタート 基本的な使い方 ヒント トラブルシューティング クイックスタート インストール MizuameをMacにインストールする方法は２つあります。
 AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と検索します AppStoreからダウンロードしてインストールします プロジェクトをビルド git clone https://github.com/3colorr/Mizuame.git Xcodeでビルドする 基本的な使い方 ノートを書く Mizuameを起動します 起動後、メニューバーにMizuameのアイコンが表示されます メニューバーにあるMizuameのアイコンをクリックしてノートを開きます あなたは文字入力やそれらのコピー＆ペーストができます ノートは自動保存されます ノート以外の部分をクリックするとノートは閉じられます もしMizuameを終了したい場合は、Mizuameのメニューにある電源アイコンをクリックします 設定セクションも確認してください メニュー Menu 電源アイコン Mizuameを終了できます コンテキストメニューからも終了できます ピンアイコン ノートを開いたままにできます 消しゴムアイコン ノートの内容をすべて削除できます 歯車アイコン 設定を開きます 設定セクションも確認してください 設定 以下のタブがあります。
 一般 ノート 印刷 ヘルプ 情報 一般タブ 以下のMizuameの動作を変更できます。
@@ -72,10 +72,10 @@ AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と
     
     <item>
       <title>ポリシーと規約</title>
-      <link>localhost:1313/Mizuame-pages/ja/privacy-terms/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/privacy-terms/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</guid>
       <description>利用規約 &amp;ldquo;Mizuame(当アプリと呼びます)&amp;ldquo;はAkira Nakamura(3Colorr)(私または作者または著作権者と呼びます)が所有しています。この利用規約では、あなたはユーザーと呼ばれます。
 当アプリを利用するには、利用規約に同意することが必要です。 ユーザーは当アプリを利用することで、この利用規約に同意したとみなされます。 ご使用について 当アプリは、MITライセンスのオープンソースソフトウェアです。
 当アプリは無料で使用できます。 ユーザーによる当アプリの使用はユーザーの単独の責任において行われます。 当アプリは「現状のまま」で、何らの保証もなく提供されます。 作者または著作権者は、当アプリまたは当アプリの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務について何らの責任も負わないものとします。 この利用規約に同意できない場合は、当アプリをアンインストールしてください。
@@ -87,20 +87,20 @@ AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と
     
     <item>
       <title>ライセンス</title>
-      <link>localhost:1313/Mizuame-pages/ja/license/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/license/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/license/</guid>
       <description>作者 3colorr (Akira Nakamura) Email 3color@gmail.com Works https://3colorr.github.io/works X(Twitter) @3colorr (https://twitter.com/3colorr) アプリについて Mizuame 3colorr(Akira Nakamura) MIT Lisence https://github.com/3colorr/Mizuame このWebサイトについて リポジトリ https://github.com/3colorr/Mizuame-pages このWebサイトでは、以下のソフトウェアを利用しています。
 Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/bep) Apache-2.0 license https://github.com/gohugoio/hugo gohugo-theme-ananke the New Dynamic/Bud Parr(https://github.com/theNewDynamic) MIT Lisence https://github.com/theNewDynamic/gohugo-theme-ananke </description>
     </item>
     
     <item>
       <title>機能</title>
-      <link>localhost:1313/Mizuame-pages/ja/features/</link>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/Mizuame-pages/ja/features/</guid>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/features/</guid>
       <description>ノート 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。 ノートは自動保存します テーマ アプリのテーマを選ぶことができます。
 例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Yellow&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などです。 White and Blue White and Yellow White and Pink ライトモード/ダークモード ライトモード ダークモード その他 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。 ピン、消しゴム、印刷、設定のアイコン </description>
     </item>
