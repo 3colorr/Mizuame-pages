@@ -6,7 +6,8 @@ date: 2023-09-16T21:46:26+09:00
 ### New Release
 We released Mizuame v1.1.0!  
 
-we will release the Mizuame on the AppStore in a few days. 
+And we released the Mizuame on the AppStore.  
+You can find it by Search for "Mizuame".  
 
 #### Improvement
 - Implemented a new feature called "Pin" that allows you to keep notes open.

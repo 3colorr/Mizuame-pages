@@ -4,9 +4,10 @@ featured_image: "/images/MizuameLogo.png"
 date: 2023-09-16T21:46:26+09:00
 ---
 ### New Release
-Mizuame v1.1.2をリリースしました！  
+Mizuame v1.1.0をリリースしました！  
 
-AppStoreでは近日中にリリースしましす。  
+AppStoreでもMizuameをリリースしました。  
+「Mizuame」で検索すると見つかります。  
 
 #### 改善
 - ノートを開いたままにできる`ピン機能`を追加しました
