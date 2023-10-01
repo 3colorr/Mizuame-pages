@@ -2,141 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/</loc>
-    <lastmod>2023-09-16T21:46:26+09:00</lastmod>
+    <loc>localhost:1313/Mizuame-pages/ja/</loc>
+    <lastmod>2023-10-01T14:09:15+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</loc>
-    <lastmod>2023-09-16T21:46:26+09:00</lastmod>
+    <loc>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</loc>
+    <lastmod>2023-10-01T14:09:15+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.0/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</loc>
+    <lastmod>2023-09-16T21:46:26+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="#ZgotmplZ"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="#ZgotmplZ"
+                />
+  </url><url>
+    <loc>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</loc>
     <lastmod>2023-08-09T21:49:39+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.0.2/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/post/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/post/</loc>
     <lastmod>2023-07-17T14:34:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/post/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/post/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</loc>
     <lastmod>2023-07-17T14:34:21+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v0.1.0/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/categories/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/categories/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/categories/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/tags/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/tags/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/tags/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/docs/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/docs/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/docs/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/privacy-terms/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/privacy-terms/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/license/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/license/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/license/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/license/"
+                href="#ZgotmplZ"
                 />
   </url><url>
-    <loc>https://3colorr.github.io/Mizuame-pages/ja/features/</loc>
+    <loc>localhost:1313/Mizuame-pages/ja/features/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://3colorr.github.io/Mizuame-pages/features/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://3colorr.github.io/Mizuame-pages/ja/features/"
+                href="#ZgotmplZ"
                 />
   </url>
 </urlset>
