@@ -4,9 +4,10 @@ featured_image: "/images/MizuameLogo.png"
 date: 2023-10-01T14:09:15+09:00
 ---
 ### New Release
-We released Mizuame v1.1.0!  
+We released Mizuame v1.1.1!  
 
-We will release the Mizuame on the AppStore in a few days. 
+And we released the Mizuame on the AppStore.  
+You can find it by Search for "Mizuame".  
 
 #### Improvement
 - Compatible with macOS 14 (Sonoma)

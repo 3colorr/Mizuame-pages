@@ -6,7 +6,8 @@ date: 2023-10-01T14:09:15+09:00
 ### New Release
 Mizuame v1.1.1をリリースしました！  
 
-AppStoreでは近日中にリリースします。  
+AppStoreでもMizuameをリリースしました。  
+「Mizuame」で検索すると見つかります。  
 
 #### 改善
 - macOS 14 (Sonoma)に対応しました。
