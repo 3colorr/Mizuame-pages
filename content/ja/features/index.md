@@ -21,6 +21,6 @@ menu:
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="ライトモード" >}}
 {{< figure src="/Mizuame-pages/images/sample-dark.png" title="ダークモード" >}}
 
-# 印刷
+# その他
 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。
 {{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="ピン、消しゴム、印刷、設定のアイコン" >}}
