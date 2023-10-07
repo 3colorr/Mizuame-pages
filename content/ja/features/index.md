@@ -21,6 +21,11 @@ menu:
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="ライトモード" >}}
 {{< figure src="/Mizuame-pages/images/sample-dark.png" title="ダークモード" >}}
 
+# ピン
+あなたは「ピン」を使うことで、ノートを固定できます。
+{{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="既定だと、ノートは閉じる" >}}
+{{< figure src="/Mizuame-pages/images/demo-pin.gif" title="ピンが有効だと、ノートは閉じない" >}}
+
 # その他
 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。
 {{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="ピン、消しゴム、印刷、設定のアイコン" >}}

@@ -21,6 +21,11 @@ For example, "White and Blue", "White and Yellow", "White and Pink" and more.
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="Light Mode" >}}
 {{< figure src="/Mizuame-pages/images/sample-dark.png" title="Dark Mode" >}}
 
+# Pin
+You can fix the note with the pin.
+{{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="By default, the note closes." >}}
+{{< figure src="/Mizuame-pages/images/demo-pin.gif" title="If the pin is enabled, the note not close." >}}
+
 # Others
 You can change the font size and size of stiky note from "Settings". I don't know if it's a feature you need, but you can also "Printing".  
 {{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="Pin, Eraser, Printing and Settings" >}}
