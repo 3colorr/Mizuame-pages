@@ -26,6 +26,28 @@ You can fix the note with the pin.
 {{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="By default, the note closes." >}}
 {{< figure src="/Mizuame-pages/images/demo-pin.gif" title="If the pin is enabled, the note not close." >}}
 
+# Making Text Black
+Depending on the app's theme, the color of the text in the note may be yellow or green, which can be hard to see for some people.  
+There are themes where the text color is black, but it's slightly gray. Also, some people may prefer the note's text color to be absolutely gray.  
+With this setting, you can ignore the app's theme and change the color of the text in the note to black, dark gray, or normal gray.  
+
+# Note Actions
+Initially, all the Note Actions are disabled.  
+You can enable the Note Actions you want to use in the general tab of the settings. Conversely, if you no longer want to use the Note Actions, you can disable them in the general tab.  
+
+# Calculation
+The app automatically calculates the formulas you enter in the note.  
+However, the formula must be enclosed in `(` and `=)`.  
+For example, if you enter `(1+2+3=)`, it will automatically calculate as `(1+2+3= 6 )`.  
+In addition to addition, you can calculate the following formulas:
+- 2+3-4+5
+- 5*5-25
+- 1+2*(3+4)/0.1
+- (2+2)^2
+
+However, not all formulas can be calculated. For example, even if you are working on your math homework and need to calculate the 0.5 power of 0.3, this app cannot calculate it.  
+Please use a math textbook, the internet, or a scientific calculator.  
+
 # Others
 You can change the font size and size of stiky note from "Settings". I don't know if it's a feature you need, but you can also "Printing".  
 {{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="Pin, Eraser, Printing and Settings" >}}
