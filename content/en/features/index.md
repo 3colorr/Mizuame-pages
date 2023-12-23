@@ -6,9 +6,35 @@ menu:
   main:
     weight: 2
 ---
-# A note
+# Outlines
+- Basic
+  - [A Note](#thenote)
+  - [Pin](#pin)
+  - [Making Text Black](#makingtextblack)
+- Design
+  - [Themes](#themes)
+  - [Light/Dark mode](#light/darkmode)
+- Note Actions
+  - [Calculation](#calculation)
+- [Othres](#othres)
+
+# Basic
+
+# theNote
 The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app.
 {{< figure src="/Mizuame-pages/images/demo-gif.gif" title="Auto-save every time you type." >}}
+
+# Pin
+You can fix the note with the pin.
+{{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="By default, the note closes." >}}
+{{< figure src="/Mizuame-pages/images/demo-pin.gif" title="If the pin is enabled, the note not close." >}}
+
+# MakingTextBlack
+Depending on the app's theme, the color of the text in the note may be yellow or green, which can be hard to see for some people.  
+There are themes where the text color is black, but it's slightly gray. Also, some people may prefer the note's text color to be absolutely gray.  
+With this setting, you can ignore the app's theme and change the color of the text in the note to black, dark gray, or normal gray.  
+
+# Design
 
 # Themes
 You can choose a theme.  
@@ -20,16 +46,6 @@ For example, "White and Blue", "White and Yellow", "White and Pink" and more.
 # Light/Dark mode
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="Light Mode" >}}
 {{< figure src="/Mizuame-pages/images/sample-dark.png" title="Dark Mode" >}}
-
-# Pin
-You can fix the note with the pin.
-{{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="By default, the note closes." >}}
-{{< figure src="/Mizuame-pages/images/demo-pin.gif" title="If the pin is enabled, the note not close." >}}
-
-# Making Text Black
-Depending on the app's theme, the color of the text in the note may be yellow or green, which can be hard to see for some people.  
-There are themes where the text color is black, but it's slightly gray. Also, some people may prefer the note's text color to be absolutely gray.  
-With this setting, you can ignore the app's theme and change the color of the text in the note to black, dark gray, or normal gray.  
 
 # Note Actions
 Initially, all the Note Actions are disabled.  
