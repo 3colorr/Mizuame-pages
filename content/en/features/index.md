@@ -54,12 +54,16 @@ You can enable the Note Actions you want to use in the general tab of the settin
 # Calculation
 The app automatically calculates the formulas you enter in the note.  
 However, the formula must be enclosed in `(` and `=)`.  
-For example, if you enter `(1+2+3=)`, it will automatically calculate as `(1+2+3= 6 )`.  
+For example, if you enter `very difficult (1+2+3=)`, it will automatically calculate as `very difficult (1+2+3= 6 )`.  
 In addition to addition, you can calculate the following formulas:
 - 2+3-4+5
 - 5*5-25
 - 1+2*(3+4)/0.1
 - (2+2)^2
+
+If you want to recalculate a formula, you have to delete the calculation result between `=` and `)`. 
+For example, If you change the formula from `very difficult (1+2+3= 6 )` to `very difficult (1+2*10= 6 )`, it will not be recalculated automatically. In this case, you have to delete `6` and the spaces before and after it like `very difficult (1+2*10=)`.  
+Because, the app consider the string between `=` and `)` as the formula and performs the calculation automatically.  
 
 However, not all formulas can be calculated. For example, even if you are working on your math homework and need to calculate the 0.5 power of 0.3, this app cannot calculate it.  
 Please use a math textbook, the internet, or a scientific calculator.  
