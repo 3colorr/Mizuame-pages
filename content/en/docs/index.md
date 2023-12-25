@@ -57,6 +57,8 @@ There are a following tabs.
 You can change the following note behavior.  
 - Display(or not display) a saving message
 - Enable(or Disable) a `Pin` that allows you to keep notes open.
+- Making text black.
+- Enable(or Disable) a `Note Actions`.
 
 #### Note tab
 You can change font size, note size, theme, and so on.  
