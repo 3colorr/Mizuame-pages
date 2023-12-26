@@ -59,6 +59,7 @@ You can change the following note behavior.
 - Enable(or Disable) a `Pin` that allows you to keep notes open.
 - Making text black.
 - Enable(or Disable) a `Note Actions`.
+   - See also [Features: Note Actions]({{< ref "/features#note-actions" >}})
 
 #### Note tab
 You can change font size, note size, theme, and so on.  
