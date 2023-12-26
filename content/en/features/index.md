@@ -66,8 +66,9 @@ In addition to addition, you can calculate the following formulas:
 If you want to recalculate a formula, you have to delete the calculation result between `=` and `)`. 
 For example, If you change the formula from `(1+2+3-6= 0 )` to `(1+2+3-7= 0 )`, it will not be recalculated automatically. In this case, you have to delete `0` and the spaces before and after it like `(1+2+3-7=)`.  
 Because, the app consider the string between `=` and `)` as the formula and performs the calculation automatically.  
+Also, please note thet When automatically calculation is performed, the cursor position move to the end of the note. This is one of the issues with this app. It cannot be resolved immediately, please be patient.
 
-However, not all formulas can be calculated. For example, even if you are working on your math homework and need to calculate the 0.5 power of 0.3, this app cannot calculate it.  
+Lastly, not all formulas can be calculated. For example, even if you are working on your math homework and need to calculate the 0.5 power of 0.3, this app cannot calculate it.  
 Please use a math textbook, the internet, or a scientific calculator.  
 
 # Others
