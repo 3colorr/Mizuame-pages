@@ -6,64 +6,49 @@
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/ja/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate>
+    <atom:link href="https://3colorr.github.io/Mizuame-pages/ja/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Release. Mizuame V1.2.0</title>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.0/</link>
+      <pubDate>Sat, 23 Dec 2023 21:32:38 +0900</pubDate>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.0/</guid>
+      <description>新しいリリース Mizuame v1.2.0をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;新機能 ノートに書いた数式は自動で計算されるようになりました。 ノートの文字色をテーマ、ブラック、暗いグレー、ふつうのグレーから選べるようになりました。 初期設定では、これらの機能は無効になっています。使用したい場合は設定の一般タブで有効にしてください。&#xA;詳しくは、機能のページを見てください。&#xA;改善 設定画面のレイアウトを見やすくしました。 Bugfix ありません。 その他 ありません。 </description>
+    </item>
     <item>
       <title>New Release. Mizuame V1.1.3</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.3/</link>
       <pubDate>Fri, 20 Oct 2023 21:32:38 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.3/</guid>
-      <description>New Release Mizuame v1.1.3をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 Redo(command + z) とUndo(command + y)を改善しました。 Bugfix ノートのサイズを変更できない不具合を修正しました。 &amp;ldquo;設定&amp;quot;をショートカット（command + , ）で開くことができるようになりました。 その他 ありません。 </description>
+      <description>New Release Mizuame v1.1.3をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 Redo(command + z) とUndo(command + y)を改善しました。 Bugfix ノートのサイズを変更できない不具合を修正しました。 &amp;ldquo;設定&amp;quot;をショートカット（command + , ）で開くことができるようになりました。 その他 ありません。 </description>
     </item>
-    
     <item>
       <title>New Release. Mizuame V1.1.1</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</link>
       <pubDate>Sun, 01 Oct 2023 14:09:15 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</guid>
-      <description>New Release Mizuame v1.1.1をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 macOS 14 (Sonoma)に対応しました。 バグ修正 ありません。 その他 メニューバーのアイコンを右クリックして表示されるメニューから「設定」を削除しました。ノートからも「設定」を開くことができるので不要と判断しました。 </description>
+      <description>New Release Mizuame v1.1.1をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 macOS 14 (Sonoma)に対応しました。 バグ修正 ありません。 その他 メニューバーのアイコンを右クリックして表示されるメニューから「設定」を削除しました。ノートからも「設定」を開くことができるので不要と判断しました。 </description>
     </item>
-    
     <item>
       <title>Mizuame v1.1.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</link>
       <pubDate>Sat, 16 Sep 2023 21:46:26 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</guid>
-      <description>New Release Mizuame v1.1.0をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 ノートを開いたままにできるピン機能を追加しました 設定の一般タブに設定をリセットするボタンを追加しました バグ修正 ありません その他 ソースコードをリファクタリングしました </description>
+      <description>New Release Mizuame v1.1.0をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 ノートを開いたままにできるピン機能を追加しました 設定の一般タブに設定をリセットするボタンを追加しました バグ修正 ありません その他 ソースコードをリファクタリングしました </description>
     </item>
-    
     <item>
       <title>Mizuame v1.0.2</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</link>
       <pubDate>Wed, 09 Aug 2023 21:49:39 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</guid>
-      <description>New Release Mizuame v1.0.2をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 自動保存するときのメッセージを変更しました 設定の印刷タブのレイアウトを変更しました バグ修正 アプリアイコンの背景を修正しました 設定のヘルプタブに印刷の説明を追加しました </description>
+      <description>New Release Mizuame v1.0.2をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 自動保存するときのメッセージを変更しました 設定の印刷タブのレイアウトを変更しました バグ修正 アプリアイコンの背景を修正しました 設定のヘルプタブに印刷の説明を追加しました </description>
     </item>
-    
     <item>
       <title>New Release. Mizuame v0.1.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</link>
       <pubDate>Mon, 17 Jul 2023 14:34:21 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</guid>
-      <description>New Release Mizuame v0.1.0をリリースしました！
-メーニューバーにノートを置く 自動保存 いくつかのノートのテーマ ノートのサイズを変更できる 文字サイズを変更できる その他諸々 </description>
+      <description>New Release Mizuame v0.1.0をリリースしました！&#xA;メーニューバーにノートを置く 自動保存 いくつかのノートのテーマ ノートのサイズを変更できる 文字サイズを変更できる その他諸々 </description>
     </item>
-    
   </channel>
 </rss>
