@@ -6,104 +6,77 @@
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 21:32:38 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 21:32:38 +0900</lastBuildDate>
+    <atom:link href="https://3colorr.github.io/Mizuame-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Release. Mizuame V1.2.0</title>
+      <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.2.0/</link>
+      <pubDate>Sat, 23 Dec 2023 21:32:38 +0900</pubDate>
+      <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.2.0/</guid>
+      <description>New Release We released Mizuame v1.2.0!&#xA;And we released the Mizuame on the AppStore.&#xA;You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.&#xA;New Features Formulas written in the note are now automatically calculated. You can choose a text color from the theme, black, dark gray, or gray. Initially, These features is disable. If you want to use them, you need to enable in the general tab of the settings.&#xA;For more details, see also Features.</description>
+    </item>
     <item>
       <title>New Release. Mizuame V1.1.3</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.3/</link>
       <pubDate>Fri, 20 Oct 2023 21:32:38 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.3/</guid>
-      <description>New Release We released Mizuame v1.1.3!
-And we released the Mizuame on the AppStore.
-You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.
-Improvement Improved redo(command + z) and undo(command + y) functionality. Bugfix Fixed a bug that cannot changeg note size. Open a &amp;ldquo;Settings&amp;rdquo; with the keyboard shortcut &amp;quot; command + , &amp;ldquo;. Others Nothing </description>
+      <description>New Release We released Mizuame v1.1.3!&#xA;And we released the Mizuame on the AppStore.&#xA;You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.&#xA;Improvement Improved redo(command + z) and undo(command + y) functionality. Bugfix Fixed a bug that cannot changeg note size. Open a &amp;ldquo;Settings&amp;rdquo; with the keyboard shortcut &amp;quot; command + , &amp;ldquo;. Others Nothing </description>
     </item>
-    
     <item>
       <title>New Release. Mizuame V1.1.1</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.1/</link>
       <pubDate>Sun, 01 Oct 2023 14:09:15 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.1/</guid>
-      <description>New Release We released Mizuame v1.1.1!
-And we released the Mizuame on the AppStore.
-You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.
-Improvement Compatible with macOS 14 (Sonoma) Bugfix Nothing Others Removed &amp;ldquo;Settings&amp;rdquo; from the context menu that opens when you right-click an icon in the menu bar. We decided that &amp;ldquo;Settings&amp;rdquo; was not necessary because you can also open &amp;ldquo;Settings&amp;rdquo; from the note. </description>
+      <description>New Release We released Mizuame v1.1.1!&#xA;And we released the Mizuame on the AppStore.&#xA;You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.&#xA;Improvement Compatible with macOS 14 (Sonoma) Bugfix Nothing Others Removed &amp;ldquo;Settings&amp;rdquo; from the context menu that opens when you right-click an icon in the menu bar. We decided that &amp;ldquo;Settings&amp;rdquo; was not necessary because you can also open &amp;ldquo;Settings&amp;rdquo; from the note. </description>
     </item>
-    
     <item>
       <title>Mizuame v1.1.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.0/</link>
       <pubDate>Sat, 16 Sep 2023 21:46:26 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.1.0/</guid>
-      <description>New Release We released Mizuame v1.1.0!
-And we released the Mizuame on the AppStore.
-You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.
-Improvement Implemented a new feature called &amp;ldquo;Pin&amp;rdquo; that allows you to keep notes open. Added &amp;ldquo;Reset settings button&amp;rdquo; to General tab in Settings. Bugfix Nothing Others Refactored the source code. </description>
+      <description>New Release We released Mizuame v1.1.0!&#xA;And we released the Mizuame on the AppStore.&#xA;You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.&#xA;Improvement Implemented a new feature called &amp;ldquo;Pin&amp;rdquo; that allows you to keep notes open. Added &amp;ldquo;Reset settings button&amp;rdquo; to General tab in Settings. Bugfix Nothing Others Refactored the source code. </description>
     </item>
-    
     <item>
       <title>Mizuame v1.0.2</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.0.2/</link>
       <pubDate>Wed, 09 Aug 2023 21:49:39 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.0.2/</guid>
-      <description>New Release We released Mizuame v1.0.2!
-And we released the Mizuame on the AppStore.
-You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.
-Improvement Changed a message whne auto saving. Changed a layout of print tab of settings. Bugfix Fixed a app icon background. Added a description about printing to a help tab of the settings. </description>
+      <description>New Release We released Mizuame v1.0.2!&#xA;And we released the Mizuame on the AppStore.&#xA;You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.&#xA;Improvement Changed a message whne auto saving. Changed a layout of print tab of settings. Bugfix Fixed a app icon background. Added a description about printing to a help tab of the settings. </description>
     </item>
-    
     <item>
       <title>Mizuame v0.1.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v0.1.0/</link>
       <pubDate>Mon, 17 Jul 2023 14:34:21 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v0.1.0/</guid>
-      <description>New Release We released Mizuame v0.1.0!
-The note on menu bar. Auto save. Some note theme. Change note size. Change font size. And more. </description>
+      <description>New Release We released Mizuame v0.1.0!&#xA;The note on menu bar. Auto save. Some note theme. Change note size. Change font size. And more. </description>
     </item>
-    
     <item>
       <title>Documentation</title>
       <link>https://3colorr.github.io/Mizuame-pages/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/docs/</guid>
-      <description>Quick start Basic usage Hint Troubleshooting Quick start Install There are two way to install Mizuame on your Mac.
-AppStore(Recommend) Click here or Search for &amp;ldquo;Mizuame&amp;rdquo; in AppStore. Download and install from AppStore. Build from project git clone https://github.com/3colorr/Mizuame.git Build by Xcode. Basic usage Write note Launch the Mizuame. After launch, Mizuame&amp;rsquo;s icon displayed on menu bar. You can open the note with clicking Mizuame&amp;rsquo;s icon on menu bar. You can typing, copy and paste.</description>
+      <description>Quick start Basic usage Hint Troubleshooting Quick start Install There are two way to install Mizuame on your Mac.&#xA;AppStore(Recommend) Click here or Search for &amp;ldquo;Mizuame&amp;rdquo; in AppStore. Download and install from AppStore. Build from project git clone https://github.com/3colorr/Mizuame.git Build by Xcode. Basic usage Write note Launch the Mizuame. After launch, Mizuame&amp;rsquo;s icon displayed on menu bar. You can open the note with clicking Mizuame&amp;rsquo;s icon on menu bar. You can typing, copy and paste.</description>
     </item>
-    
     <item>
       <title>Features</title>
       <link>https://3colorr.github.io/Mizuame-pages/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/features/</guid>
-      <description>A note The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app. Auto-save every time you type. Themes You can choose a theme.
-For example, &amp;ldquo;White and Blue&amp;rdquo;, &amp;ldquo;White and Yellow&amp;rdquo;, &amp;ldquo;White and Pink&amp;rdquo; and more. White and Blue White and Yellow White and Pink Light/Dark mode Light Mode Dark Mode Pin You can fix the note with the pin.</description>
+      <description>Outlines Basic A Note Pin Making Text Black Design Themes Light/Dark mode Note Actions Calculation Othres Basic theNote The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app. Auto-save every time you type. Pin You can fix the note with the pin. By default, the note closes. If the pin is enabled, the note not close.</description>
     </item>
-    
     <item>
       <title>License</title>
       <link>https://3colorr.github.io/Mizuame-pages/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/license/</guid>
-      <description>Author 3colorr (Akira Nakamura) Email 3color@gmail.com Works https://3colorr.github.io/works X(Twitter) @3colorr (https://twitter.com/3colorr) About the app Mizuame 3colorr(Akira Nakamura) MIT Lisence https://github.com/3colorr/Mizuame About this website Repository https://github.com/3colorr/Mizuame-pages This website uses the following software.
-Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/bep) Apache-2.0 license https://github.com/gohugoio/hugo gohugo-theme-ananke the New Dynamic/Bud Parr(https://github.com/theNewDynamic) MIT Lisence https://github.com/theNewDynamic/gohugo-theme-ananke </description>
+      <description>Author 3colorr (Akira Nakamura) Email 3color@gmail.com Works https://3colorr.github.io/works X(Twitter) @3colorr (https://twitter.com/3colorr) About the app Mizuame 3colorr(Akira Nakamura) MIT Lisence https://github.com/3colorr/Mizuame About this website Repository https://github.com/3colorr/Mizuame-pages This website uses the following software.&#xA;Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/bep) Apache-2.0 license https://github.com/gohugoio/hugo gohugo-theme-ananke the New Dynamic/Bud Parr(https://github.com/theNewDynamic) MIT Lisence https://github.com/theNewDynamic/gohugo-theme-ananke </description>
     </item>
-    
     <item>
       <title>Policy&amp;Terms</title>
       <link>https://3colorr.github.io/Mizuame-pages/privacy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/privacy-terms/</guid>
-      <description>Terms of service &amp;ldquo;Mizuame (referred to as &amp;ldquo;The Apps&amp;rdquo;)&amp;rdquo; is owned by Akira Nakamura(3Colorr). (referred to as &amp;ldquo;I&amp;rdquo;, &amp;ldquo;Me&amp;rdquo;, &amp;ldquo;Our&amp;rdquo;, &amp;ldquo;We&amp;rdquo;, &amp;ldquo;The Authors&amp;rdquo; or &amp;ldquo;Copyright holders&amp;rdquo;). You are a &amp;ldquo;User&amp;rdquo; or &amp;ldquo;You&amp;rdquo; according to this agreement.
-Your access to and use of the Apps are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Apps you agree to be bound by these Terms. About the use The Apps is open source software, under the MIT Lisence.</description>
+      <description>Terms of service &amp;ldquo;Mizuame (referred to as &amp;ldquo;The Apps&amp;rdquo;)&amp;rdquo; is owned by Akira Nakamura(3Colorr). (referred to as &amp;ldquo;I&amp;rdquo;, &amp;ldquo;Me&amp;rdquo;, &amp;ldquo;Our&amp;rdquo;, &amp;ldquo;We&amp;rdquo;, &amp;ldquo;The Authors&amp;rdquo; or &amp;ldquo;Copyright holders&amp;rdquo;). You are a &amp;ldquo;User&amp;rdquo; or &amp;ldquo;You&amp;rdquo; according to this agreement.&#xA;Your access to and use of the Apps are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Apps you agree to be bound by these Terms. About the use The Apps is open source software, under the MIT Lisence.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,117 +6,77 @@
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Oct 2023 21:32:38 +0900</lastBuildDate><atom:link href="https://3colorr.github.io/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 21:32:38 +0900</lastBuildDate>
+    <atom:link href="https://3colorr.github.io/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Release. Mizuame V1.2.0</title>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.0/</link>
+      <pubDate>Sat, 23 Dec 2023 21:32:38 +0900</pubDate>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.0/</guid>
+      <description>新しいリリース Mizuame v1.2.0をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;新機能 ノートに書いた数式は自動で計算されるようになりました。 ノートの文字色をテーマ、ブラック、暗いグレー、ふつうのグレーから選べるようになりました。 初期設定では、これらの機能は無効になっています。使用したい場合は設定の一般タブで有効にしてください。&#xA;詳しくは、機能のページを見てください。&#xA;改善 設定画面のレイアウトを見やすくしました。 Bugfix ありません。 その他 ありません。 </description>
+    </item>
     <item>
       <title>New Release. Mizuame V1.1.3</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.3/</link>
       <pubDate>Fri, 20 Oct 2023 21:32:38 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.3/</guid>
-      <description>New Release Mizuame v1.1.3をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 Redo(command + z) とUndo(command + y)を改善しました。 Bugfix ノートのサイズを変更できない不具合を修正しました。 &amp;ldquo;設定&amp;quot;をショートカット（command + , ）で開くことができるようになりました。 その他 ありません。 </description>
+      <description>New Release Mizuame v1.1.3をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 Redo(command + z) とUndo(command + y)を改善しました。 Bugfix ノートのサイズを変更できない不具合を修正しました。 &amp;ldquo;設定&amp;quot;をショートカット（command + , ）で開くことができるようになりました。 その他 ありません。 </description>
     </item>
-    
     <item>
       <title>New Release. Mizuame V1.1.1</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</link>
       <pubDate>Sun, 01 Oct 2023 14:09:15 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.1/</guid>
-      <description>New Release Mizuame v1.1.1をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 macOS 14 (Sonoma)に対応しました。 バグ修正 ありません。 その他 メニューバーのアイコンを右クリックして表示されるメニューから「設定」を削除しました。ノートからも「設定」を開くことができるので不要と判断しました。 </description>
+      <description>New Release Mizuame v1.1.1をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 macOS 14 (Sonoma)に対応しました。 バグ修正 ありません。 その他 メニューバーのアイコンを右クリックして表示されるメニューから「設定」を削除しました。ノートからも「設定」を開くことができるので不要と判断しました。 </description>
     </item>
-    
     <item>
       <title>Mizuame v1.1.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</link>
       <pubDate>Sat, 16 Sep 2023 21:46:26 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.1.0/</guid>
-      <description>New Release Mizuame v1.1.0をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 ノートを開いたままにできるピン機能を追加しました 設定の一般タブに設定をリセットするボタンを追加しました バグ修正 ありません その他 ソースコードをリファクタリングしました </description>
+      <description>New Release Mizuame v1.1.0をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 ノートを開いたままにできるピン機能を追加しました 設定の一般タブに設定をリセットするボタンを追加しました バグ修正 ありません その他 ソースコードをリファクタリングしました </description>
     </item>
-    
     <item>
       <title>Mizuame v1.0.2</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</link>
       <pubDate>Wed, 09 Aug 2023 21:49:39 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.0.2/</guid>
-      <description>New Release Mizuame v1.0.2をリリースしました！
-AppStoreでもMizuameをリリースしました。
-「Mizuame」で検索すると見つかります。
-改善 自動保存するときのメッセージを変更しました 設定の印刷タブのレイアウトを変更しました バグ修正 アプリアイコンの背景を修正しました 設定のヘルプタブに印刷の説明を追加しました </description>
+      <description>New Release Mizuame v1.0.2をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;改善 自動保存するときのメッセージを変更しました 設定の印刷タブのレイアウトを変更しました バグ修正 アプリアイコンの背景を修正しました 設定のヘルプタブに印刷の説明を追加しました </description>
     </item>
-    
     <item>
       <title>New Release. Mizuame v0.1.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</link>
       <pubDate>Mon, 17 Jul 2023 14:34:21 +0900</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v0.1.0/</guid>
-      <description>New Release Mizuame v0.1.0をリリースしました！
-メーニューバーにノートを置く 自動保存 いくつかのノートのテーマ ノートのサイズを変更できる 文字サイズを変更できる その他諸々 </description>
+      <description>New Release Mizuame v0.1.0をリリースしました！&#xA;メーニューバーにノートを置く 自動保存 いくつかのノートのテーマ ノートのサイズを変更できる 文字サイズを変更できる その他諸々 </description>
     </item>
-    
     <item>
       <title>ドキュメント</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/docs/</guid>
-      <description>クイックスタート 基本的な使い方 ヒント トラブルシューティング クイックスタート インストール MizuameをMacにインストールする方法は２つあります。
-AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と検索します AppStoreからダウンロードしてインストールします プロジェクトをビルド git clone https://github.com/3colorr/Mizuame.git Xcodeでビルドする 基本的な使い方 ノートを書く Mizuameを起動します 起動後、メニューバーにMizuameのアイコンが表示されます メニューバーにあるMizuameのアイコンをクリックしてノートを開きます あなたは文字入力やそれらのコピー＆ペーストができます ノートは自動保存されます ノート以外の部分をクリックするとノートは閉じられます もしMizuameを終了したい場合は、Mizuameのメニューにある電源アイコンをクリックします 設定セクションも確認してください メニュー Menu 電源アイコン Mizuameを終了できます コンテキストメニューからも終了できます ピンアイコン ノートを開いたままにできます 消しゴムアイコン ノートの内容をすべて削除できます 歯車アイコン 設定を開きます 設定セクションも確認してください 設定 以下のタブがあります。
-一般 ノート 印刷 ヘルプ 情報 一般タブ 以下のMizuameの動作を変更できます。
-保存中のメッセージを表示する/しない ノートを開いたままにするピンの有効/無効 ノートタブ フォントサイズやノートのサイズ、テーマなどを変更できます。
-もし設定をリセットしたい場合は、画面下にあるリセットボタンをクリックします。
-印刷タブ 以下の印刷設定を変更できます。
-余白 倍率（スケール） 上下左右の中央揃え 「余白」と「上下左右の中央揃え」は、印刷タブからのみ変更できます。
-ヘルプタブ 基本的な使い方とメニューの説明が載っています。
-情報タブ ライセンスや利用規約、プライバシーポリシー、連絡先が載っています。
-ヒント Macの起動時にMiauameを起動させたいです Macのログイン項目 -&amp;gt; ログイン時に開くにMizuameを追加してください トラブルシューティング まだ準備できていません。</description>
+      <description>クイックスタート 基本的な使い方 ヒント トラブルシューティング クイックスタート インストール MizuameをMacにインストールする方法は２つあります。&#xA;AppStore(おすすめ) ここをクリックまたはAppStoreで「Mizuame」と検索します AppStoreからダウンロードしてインストールします プロジェクトをビルド git clone https://github.com/3colorr/Mizuame.git Xcodeでビルドする 基本的な使い方 ノートを書く Mizuameを起動します 起動後、メニューバーにMizuameのアイコンが表示されます メニューバーにあるMizuameのアイコンをクリックしてノートを開きます あなたは文字入力やそれらのコピー＆ペーストができます ノートは自動保存されます ノート以外の部分をクリックするとノートは閉じられます もしMizuameを終了したい場合は、Mizuameのメニューにある電源アイコンをクリックします 設定セクションも確認してください メニュー Menu 電源アイコン Mizuameを終了できます コンテキストメニューからも終了できます ピンアイコン ノートを開いたままにできます 消しゴムアイコン ノートの内容をすべて削除できます 歯車アイコン 設定を開きます 設定セクションも確認してください 設定 以下のタブがあります。&#xA;一般 ノート 印刷 ヘルプ 情報 一般タブ 以下のMizuameの動作を変更できます。&#xA;保存中のメッセージを表示する/しない ノートを開いたままにするピンの有効/無効 テキストの色を黒色にする ノートアクションの有効/無効 こちらも参照 機能: ノートアクション ノートタブ フォントサイズやノートのサイズ、テーマなどを変更できます。&#xA;もし設定をリセットしたい場合は、画面下にあるリセットボタンをクリックします。&#xA;印刷タブ 以下の印刷設定を変更できます。&#xA;余白 倍率（スケール） 上下左右の中央揃え 「余白」と「上下左右の中央揃え」は、印刷タブからのみ変更できます。&#xA;ヘルプタブ 基本的な使い方とメニューの説明が載っています。&#xA;情報タブ ライセンスや利用規約、プライバシーポリシー、連絡先が載っています。&#xA;ヒント Macの起動時にMiauameを起動させたいです Macのログイン項目 -&amp;gt; ログイン時に開くにMizuameを追加してください トラブルシューティング まだ準備できていません。</description>
     </item>
-    
     <item>
       <title>ポリシーと規約</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/privacy-terms/</guid>
-      <description>利用規約 &amp;ldquo;Mizuame(当アプリと呼びます)&amp;ldquo;はAkira Nakamura(3Colorr)(私または作者または著作権者と呼びます)が所有しています。この利用規約では、あなたはユーザーと呼ばれます。
-当アプリを利用するには、利用規約に同意することが必要です。 ユーザーは当アプリを利用することで、この利用規約に同意したとみなされます。 ご使用について 当アプリは、MITライセンスのオープンソースソフトウェアです。
-当アプリは無料で使用できます。 ユーザーによる当アプリの使用はユーザーの単独の責任において行われます。 当アプリは「現状のまま」で、何らの保証もなく提供されます。 作者または著作権者は、当アプリまたは当アプリの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務について何らの責任も負わないものとします。 この利用規約に同意できない場合は、当アプリをアンインストールしてください。
-プライバシーポリシー &amp;ldquo;Mizuame(当アプリと呼びます)&amp;ldquo;はAkira Nakamura(3Colorr)(私または作者または著作権者と呼びます)が所有しています。このプライバシーポリシーでは、あなたはユーザーと呼ばれます。
-データとプライバシー 当アプリは、一切のデータを収集しません。
-私は、ユーザーから質問を受け取ったときに、ユーザーの電子メール アドレスを知ることがあります。 ユーザーの電子メール アドレスは、質問をしたユーザーに返信するためにのみ使用します。私は、ユーザーの質問に回答した後、ユーザーのメールアドレスはすぐに廃棄します。第三者には共有しません。
-このプライバシーポリシーに同意できない場合は、当アプリをアンインストールしてください。</description>
+      <description>利用規約 &amp;ldquo;Mizuame(当アプリと呼びます)&amp;ldquo;はAkira Nakamura(3Colorr)(私または作者または著作権者と呼びます)が所有しています。この利用規約では、あなたはユーザーと呼ばれます。&#xA;当アプリを利用するには、利用規約に同意することが必要です。 ユーザーは当アプリを利用することで、この利用規約に同意したとみなされます。 ご使用について 当アプリは、MITライセンスのオープンソースソフトウェアです。&#xA;当アプリは無料で使用できます。 ユーザーによる当アプリの使用はユーザーの単独の責任において行われます。 当アプリは「現状のまま」で、何らの保証もなく提供されます。 作者または著作権者は、当アプリまたは当アプリの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務について何らの責任も負わないものとします。 この利用規約に同意できない場合は、当アプリをアンインストールしてください。&#xA;プライバシーポリシー &amp;ldquo;Mizuame(当アプリと呼びます)&amp;ldquo;はAkira Nakamura(3Colorr)(私または作者または著作権者と呼びます)が所有しています。このプライバシーポリシーでは、あなたはユーザーと呼ばれます。&#xA;データとプライバシー 当アプリは、一切のデータを収集しません。&#xA;私は、ユーザーから質問を受け取ったときに、ユーザーの電子メール アドレスを知ることがあります。 ユーザーの電子メール アドレスは、質問をしたユーザーに返信するためにのみ使用します。私は、ユーザーの質問に回答した後、ユーザーのメールアドレスはすぐに廃棄します。第三者には共有しません。&#xA;このプライバシーポリシーに同意できない場合は、当アプリをアンインストールしてください。</description>
     </item>
-    
     <item>
       <title>ライセンス</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/license/</guid>
-      <description>作者 3colorr (Akira Nakamura) Email 3color@gmail.com Works https://3colorr.github.io/works X(Twitter) @3colorr (https://twitter.com/3colorr) アプリについて Mizuame 3colorr(Akira Nakamura) MIT Lisence https://github.com/3colorr/Mizuame このWebサイトについて リポジトリ https://github.com/3colorr/Mizuame-pages このWebサイトでは、以下のソフトウェアを利用しています。
-Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/bep) Apache-2.0 license https://github.com/gohugoio/hugo gohugo-theme-ananke the New Dynamic/Bud Parr(https://github.com/theNewDynamic) MIT Lisence https://github.com/theNewDynamic/gohugo-theme-ananke </description>
+      <description>作者 3colorr (Akira Nakamura) Email 3color@gmail.com Works https://3colorr.github.io/works X(Twitter) @3colorr (https://twitter.com/3colorr) アプリについて Mizuame 3colorr(Akira Nakamura) MIT Lisence https://github.com/3colorr/Mizuame このWebサイトについて リポジトリ https://github.com/3colorr/Mizuame-pages このWebサイトでは、以下のソフトウェアを利用しています。&#xA;Thanks for the awesome software!! hugo Bjørn Erik Pedersen(https://github.com/bep) Apache-2.0 license https://github.com/gohugoio/hugo gohugo-theme-ananke the New Dynamic/Bud Parr(https://github.com/theNewDynamic) MIT Lisence https://github.com/theNewDynamic/gohugo-theme-ananke </description>
     </item>
-    
     <item>
       <title>機能</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://3colorr.github.io/Mizuame-pages/ja/features/</guid>
-      <description>ノート 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。 ノートは自動保存します テーマ アプリのテーマを選ぶことができます。
-例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Yellow&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などです。 White and Blue White and Yellow White and Pink ライトモード/ダークモード ライトモード ダークモード ピン あなたは「ピン」を使うことで、ノートを固定できます。 既定だと、ノートは閉じる ピンが有効だと、ノートは閉じない その他 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。 ピン、消しゴム、印刷、設定のアイコン </description>
+      <description>目次 基本 ノート ピン 文字を黒くする デザイン テーマ ライトモード/ダークモード ノートアクション 計算する その他 基本 ノート 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。 ノートは自動保存します ピン あなたは「ピン」を使うことで、ノートを固定できます。 既定だと、ノートは閉じる ピンが有効だと、ノートは閉じない 文字を黒くする アプリのテーマによっては、ノートの文字色が黄色や緑色となり、人によっては文字が見えづらいときがあります。&#xA;中には、文字の色が黒色となっているテーマもありますが、ほんの少しグレーとなっています。また、ノートの文字色は絶対にグレーが良いと考える方もいることでしょう。&#xA;この設定では、アプリのテーマを無視して、ノートの文字色を黒色や暗いグレー、ふつうのグレーに変えることができます。&#xA;デザイン テーマ アプリのテーマを選ぶことができます。&#xA;例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Yellow&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などです。 White and Blue White and Yellow White and Pink ライトモード/ダークモード ライトモード ダークモード ノートアクション 最初、ノートアクションはすべて無効になっています。&#xA;あなたが使いたいと思ったノートアクションは、設定の一般タブで有効にできます。逆に、ノートアクションを使いたくなくなったときは、同じく一般タブで無効にできます。&#xA;計算する ノートに入力した数式を自動で計算します。&#xA;ただし、(と=)で囲われた数式にしなければなりません。&#xA;例えば(1+2+3-6=)と入力すると(1+2+3-6= 0 )と自動で計算されます。&#xA;足し算以外にも、以下のような数式を計算できます&#xA;2+3-4+5 5*5-25 1+2*(3+4)/0.1 (2+2)^2 &amp;#39;(&amp;#39; と &amp;#39;=)&amp;#39; で囲われた数式を自動で計算する 数式を再計算させたいときは、=と)の間にある計算結果を消してください。&#xA;例えば(1+2+3-6= 0 )を(1+2+3-7= 0 )と数式を変えても自動で再計算されません。この場合は(1+2+3-7=)のように0とその前後の空白を消してください。&#xA;なぜなら、このアプリが(と=)で囲われた部分を数式と判断し、自動で計算を行うためです。</description>
     </item>
-    
   </channel>
 </rss>
