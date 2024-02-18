@@ -6,8 +6,15 @@
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Jul 2023 14:34:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://3colorr.github.io/Mizuame-pages/ja/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Release. Mizuame V1.2.1</title>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.1/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0900</pubDate>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.1/</guid>
+      <description>新しいリリース Mizuame v1.2.1をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;新機能 計算結果は小数点以下3桁に四捨五入されます(例：1.23456&amp;hellip; -&amp;gt; 1.235)。あなたは小数点以下の桁数を指定できます。 詳しくは、機能のページを見てください。&#xA;改善 「ログイン項目に追加」を追加しました。 ソースコードをリファクタリングしました。 バグ修正 ありません。 その他 ありません。 </description>
+    </item>
     <item>
       <title>New Release. Mizuame V1.2.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.0/</link>
