@@ -6,8 +6,15 @@
     <description>Recent content on Mizuame</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 Dec 2023 21:32:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://3colorr.github.io/Mizuame-pages/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Release. Mizuame V1.2.1</title>
+      <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.1/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0900</pubDate>
+      <guid>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.1/</guid>
+      <description>新しいリリース Mizuame v1.2.1をリリースしました！&#xA;AppStoreでもMizuameをリリースしました。&#xA;「Mizuame」で検索すると見つかります。&#xA;新機能 計算結果は小数点以下3桁に四捨五入されます(例：1.23456&amp;hellip; -&amp;gt; 1.235)。あなたは小数点以下の桁数を指定できます。 詳しくは、機能のページを見てください。&#xA;改善 「ログイン項目に追加」を追加しました。 ソースコードをリファクタリングしました。 バグ修正 ありません。 その他 ありません。 </description>
+    </item>
     <item>
       <title>New Release. Mizuame V1.2.0</title>
       <link>https://3colorr.github.io/Mizuame-pages/ja/post/new-release.-mizuame-v1.2.0/</link>
@@ -76,7 +83,7 @@
       <link>https://3colorr.github.io/Mizuame-pages/ja/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://3colorr.github.io/Mizuame-pages/ja/features/</guid>
-      <description>目次 基本 ノート ピン 文字を黒くする デザイン テーマ ライトモード/ダークモード ノートアクション 計算する その他 基本 ノート 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。 ノートは自動保存します ピン あなたは「ピン」を使うことで、ノートを固定できます。 既定だと、ノートは閉じる ピンが有効だと、ノートは閉じない 文字を黒くする アプリのテーマによっては、ノートの文字色が黄色や緑色となり、人によっては文字が見えづらいときがあります。&#xA;中には、文字の色が黒色となっているテーマもありますが、ほんの少しグレーとなっています。また、ノートの文字色は絶対にグレーが良いと考える方もいることでしょう。&#xA;この設定では、アプリのテーマを無視して、ノートの文字色を黒色や暗いグレー、ふつうのグレーに変えることができます。&#xA;デザイン テーマ アプリのテーマを選ぶことができます。&#xA;例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Yellow&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などです。 White and Blue White and Yellow White and Pink ライトモード/ダークモード ライトモード ダークモード ノートアクション 最初、ノートアクションはすべて無効になっています。&#xA;あなたが使いたいと思ったノートアクションは、設定の一般タブで有効にできます。逆に、ノートアクションを使いたくなくなったときは、同じく一般タブで無効にできます。&#xA;計算する ノートに入力した数式を自動で計算します。&#xA;ただし、(と=)で囲われた数式にしなければなりません。&#xA;例えば(1+2+3-6=)と入力すると(1+2+3-6= 0 )と自動で計算されます。&#xA;足し算以外にも、以下のような数式を計算できます&#xA;2+3-4+5 5*5-25 1+2*(3+4)/0.1 (2+2)^2 &amp;#39;(&amp;#39; と &amp;#39;=)&amp;#39; で囲われた数式を自動で計算する 数式を再計算させたいときは、=と)の間にある計算結果を消してください。&#xA;例えば(1+2+3-6= 0 )を(1+2+3-7= 0 )と数式を変えても自動で再計算されません。この場合は(1+2+3-7=)のように0とその前後の空白を消してください。&#xA;なぜなら、このアプリが(と=)で囲われた部分を数式と判断し、自動で計算を行うためです。</description>
+      <description>目次 基本 ノート ピン 文字を黒くする デザイン テーマ ライトモード/ダークモード ノートアクション 計算する その他 基本 ノート 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。 ノートは自動保存します ピン あなたは「ピン」を使うことで、ノートを固定できます。 既定だと、ノートは閉じる ピンが有効だと、ノートは閉じない 文字を黒くする アプリのテーマによっては、ノートの文字色が黄色や緑色となり、人によっては文字が見えづらいときがあります。&#xA;中には、文字の色が黒色となっているテーマもありますが、ほんの少しグレーとなっています。また、ノートの文字色は絶対にグレーが良いと考える方もいることでしょう。&#xA;この設定では、アプリのテーマを無視して、ノートの文字色を黒色や暗いグレー、ふつうのグレーに変えることができます。&#xA;デザイン テーマ アプリのテーマを選ぶことができます。&#xA;例えば、&amp;ldquo;White and Blue&amp;rdquo;、&amp;ldquo;White and Yellow&amp;rdquo;、&amp;ldquo;White and Pink&amp;quot;などです。 White and Blue White and Yellow White and Pink ライトモード/ダークモード ライトモード ダークモード ノートアクション 最初、ノートアクションはすべて無効になっています。&#xA;あなたが使いたいと思ったノートアクションは、設定の一般タブで有効にできます。逆に、ノートアクションを使いたくなくなったときは、同じく一般タブで無効にできます。&#xA;計算する ノートに入力した数式を自動で計算します。&#xA;ただし、(と=)で囲われた数式にしなければなりません。&#xA;例えば(1+2+3-6=)と入力すると(1+2+3-6= 0 )と自動で計算されます。&#xA;足し算以外にも、以下のような数式を計算できます&#xA;2+3-4+5 5*5-25 1+2*(3+4)/0.1 (2+2)^2 初期設定では、数値は小数点以下3桁に四捨五入されます。四捨五入する桁数は0から9桁、または全て（38桁）の範囲で指定できます。これも設定の一般タブで変更できます。&#xA;&amp;#39;(&amp;#39; と &amp;#39;=)&amp;#39; で囲われた数式を自動で計算する 数式を再計算させたいときは、=と)の間にある計算結果を消してください。&#xA;例えば(1+2+3-6= 0 )を(1+2+3-7= 0 )と数式を変えても自動で再計算されません。この場合は(1+2+3-7=)のように0とその前後の空白を消してください。</description>
     </item>
   </channel>
 </rss>

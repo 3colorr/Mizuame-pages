@@ -61,6 +61,8 @@ In addition to addition, you can calculate the following formulas:
 - 1+2*(3+4)/0.1
 - (2+2)^2
 
+By default, numbers are rounded to 3 decimal places. You can specify the number of decimal places to round to within a range of 0 to 9 digits, or all (38 digits). You can change this in the General tab of the settings.
+
 {{< figure src="/Mizuame-pages/images/demo-calculation.gif" title="Automatically calculate the formula enclosed in '(' and '=)'" >}}
 
 If you want to recalculate a formula, you have to delete the calculation result between `=` and `)`. 
