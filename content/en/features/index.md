@@ -8,7 +8,7 @@ menu:
 ---
 # Outlines
 - Basic
-  - [A Note](#thenote)
+  - [The Note](#thenote)
   - [Pin](#pin)
   - [Making Text Black](#makingtextblack)
 - Design
