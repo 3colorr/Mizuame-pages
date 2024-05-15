@@ -1,7 +1,7 @@
 ---
 title: "Features"
 description: ""
-featured_image: "/images/demo-gif.gif"
+featured_image: "/images/MizuameLogo.png"
 menu:
   main:
     weight: 2
@@ -22,12 +22,10 @@ menu:
 
 # theNote
 The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app.
-{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="Auto-save every time you type." >}}
 
 # Pin
-You can fix the note with the pin.
-{{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="By default, the note closes." >}}
-{{< figure src="/Mizuame-pages/images/demo-pin.gif" title="If the pin is enabled, the note not close." >}}
+You can fix the note with the pin.  
+With this setting, The notes will always be displayed on top of the other windows.
 
 # MakingTextBlack
 Depending on the app's theme, the color of the text in the note may be yellow or green, which can be hard to see for some people.  
@@ -42,6 +40,7 @@ For example, "White and Blue", "White and Yellow", "White and Pink" and more.
 {{< figure src="/Mizuame-pages/images/sample-theme-image-blue.png" title="White and Blue" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-yellow.png" title="White and Yellow" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-pink.png" title="White and Pink" >}}
+{{< figure src="/Mizuame-pages/images/sample-theme-image-gray.png" title="Light and Gray" >}}
 
 # Light/Dark mode
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="Light Mode" >}}

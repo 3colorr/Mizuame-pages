@@ -1,7 +1,7 @@
 ---
 title: "機能"
 description: ""
-featured_image: "/images/demo-gif.gif"
+featured_image: "/images/MizuameLogo.png"
 menu:
   main:
     weight: 2
@@ -20,14 +20,14 @@ menu:
 
 # 基本
 
+{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="サンプル" >}}
+
 # ノート
 書いたノートはあなたのPCに保存されます。そのため、書いたノートはあなたの他のPCと共有できません。なぜなら、このアプリは高機能なノートアプリではないからです。
-{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="ノートは自動保存します" >}}
 
 # ピン
-あなたは「ピン」を使うことで、ノートを固定できます。
-{{< figure src="/Mizuame-pages/images/demo-un-pin.gif" title="既定だと、ノートは閉じる" >}}
-{{< figure src="/Mizuame-pages/images/demo-pin.gif" title="ピンが有効だと、ノートは閉じない" >}}
+あなたは「ピン」を使うことで、ノートを固定できます。  
+これにより、ノートは常に他のウィンドウの前面に表示されます。
 
 # 文字を黒くする
 アプリのテーマによっては、ノートの文字色が黄色や緑色となり、人によっては文字が見えづらいときがあります。  
@@ -42,6 +42,7 @@ menu:
 {{< figure src="/Mizuame-pages/images/sample-theme-image-blue.png" title="White and Blue" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-yellow.png" title="White and Yellow" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-pink.png" title="White and Pink" >}}
+{{< figure src="/Mizuame-pages/images/sample-theme-image-gray.png" title="White and Gray" >}}
 
 # ライトモード/ダークモード
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="ライトモード" >}}
