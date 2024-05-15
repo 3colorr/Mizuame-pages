@@ -4,10 +4,17 @@
     <title>Mizuame</title>
     <link>https://3colorr.github.io/Mizuame-pages/</link>
     <description>Recent content on Mizuame</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://3colorr.github.io/Mizuame-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Release. Mizuame V1.2.2</title>
+      <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.2.2/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0900</pubDate>
+      <guid>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.2.2/</guid>
+      <description>New Release We released Mizuame v1.2.2!&#xA;And we released the Mizuame on the AppStore.&#xA;You can find it by Search for &amp;ldquo;Mizuame&amp;rdquo;.&#xA;New Features You can resize the note by dragging its edges. Improvement Change the window size for each settings tab. Bugfix fixed a bug that the settings from being displayed in the foreground. Others Nothing. </description>
+    </item>
     <item>
       <title>New Release. Mizuame V1.2.1</title>
       <link>https://3colorr.github.io/Mizuame-pages/post/new-release.-mizuame-v1.2.1/</link>
@@ -69,7 +76,7 @@
       <link>https://3colorr.github.io/Mizuame-pages/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://3colorr.github.io/Mizuame-pages/features/</guid>
-      <description>Outlines Basic A Note Pin Making Text Black Design Themes Light/Dark mode Note Actions Calculation Othres Basic theNote The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app. Auto-save every time you type. Pin You can fix the note with the pin. By default, the note closes. If the pin is enabled, the note not close.</description>
+      <description>Outlines Basic The Note Pin Making Text Black Design Themes Light/Dark mode Note Actions Calculation Othres Basic theNote The notes that you type will be saved on your PC. Therefore, you cannot share the notes on your the other PC. Because this app is not a high performance note app.&#xA;Pin You can fix the note with the pin.&#xA;With this setting, The notes will always be displayed on top of the other windows.</description>
     </item>
     <item>
       <title>License</title>
