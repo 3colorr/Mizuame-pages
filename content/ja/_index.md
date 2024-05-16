@@ -1,9 +1,9 @@
 ---
 title: "Mizuame"
-description: "This app is sticky note on menu bar of Mac."
+description: "This app is a note on menu bar of Mac."
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/demo-gif.gif'
+  featured_image: '/images/MizuameLogo.png'
 ---
 このアプリは、Macのメニューバーからアクセスするノートアプリです。  
 
@@ -11,6 +11,8 @@ cascade:
 あまり大切ではないデータの保存でしたら、このアプリを選択肢の１つにしてもらえるとうれしいです。
 
 {{< figure src="/Mizuame-pages/images/MizuameLogo.png" title="" >}}
+
+{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="" >}}
 
 # インストール
 ### App Store
