@@ -38,11 +38,10 @@ menu:
 
 # テーマ
 アプリのテーマを選ぶことができます。  
-例えば、"White and Blue"、"White and Yellow"、"White and Pink"などです。
+例えば、"White and Blue"、"White and Pink", "Light(Gray) and Mint" などです。
 {{< figure src="/Mizuame-pages/images/sample-theme-image-blue.png" title="White and Blue" >}}
-{{< figure src="/Mizuame-pages/images/sample-theme-image-yellow.png" title="White and Yellow" >}}
 {{< figure src="/Mizuame-pages/images/sample-theme-image-pink.png" title="White and Pink" >}}
-{{< figure src="/Mizuame-pages/images/sample-theme-image-gray.png" title="White and Gray" >}}
+{{< figure src="/Mizuame-pages/images/sample-theme-image-gray.png" title="Light(Gray) and Mint" >}}
 
 # ライトモード/ダークモード
 {{< figure src="/Mizuame-pages/images/sample-light.png" title="ライトモード" >}}
