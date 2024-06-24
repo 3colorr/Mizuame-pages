@@ -7,16 +7,29 @@ cascade:
 ---
 This app is a note on menu bar of Mac.  
 
+What do you do when you want to store a text for a moment that you don't mind losing later?
+In this case, `Mizuame` may assist you.
+
 However, this app is NOT a high performance note app so that you should use other better apps to save your important data.  
-If you store data that is not very important, I would be happy if you could make this app one of your choices.
 
 {{< figure src="/Mizuame-pages/images/MizuameLogo.png" title="" >}}
 
 {{< figure src="/Mizuame-pages/images/demo-gif.gif" title="" >}}
 
+# Pros and Cons
+### Good
+- You can access it directly from the menu bar, allowing you to read and write information quickly.
+- It can serve as a temporary clipboard, complementing your work in other robust note apps.
+- Just by writing a simple formula, it calculates automatically.
+
+### NOT Good
+- You cannot sync data with other devices. (e.g. Mac, iPhone nad iPad)
+- This app cannot backup your data(e.g. iCloud), so that your data may be lost unintentionally due to device failure.
+- You cannot paste images and movies.
+
 # Install
 ### App Store
-Search for "Mizuame".  
+{{< figure src="/Mizuame-pages/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" title="" link="https://apps.apple.com/app/mizuame/id6458394832?mt=12" target="_blank" >}}
 
 ### Build
 You should "git clone" from  
