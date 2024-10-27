@@ -16,6 +16,7 @@ menu:
   - [Light/Dark mode](#light/darkmode)
 - Note Actions
   - [Calculation](#calculation)
+  - [Markdown](#markdown)
 - [Othres](#othres)
 
 # Basic
@@ -70,6 +71,27 @@ Also, please note that When automatically calculation is performed, the cursor p
 
 Lastly, not all formulas can be calculated. For example, even if you are working on your math homework and need to calculate the 0.5 power of 0.3, this app cannot calculate it.  
 Please use a math textbook, the internet, or a scientific calculator.  
+
+# Markdown
+Mizuame supports some Markdown syntax.  
+This means that there are supported syntax elements as well as unsupported ones.  
+
+When the "Markdown view feature" is enabled, notes opened from the menu bar are displayed in Markdown view. The Markdown view is for preview purposes only, and you cannot edit the notes in this view.  
+
+To edit a note, either click `"Edit" (the icon with a square and pen) in the menu bar`, or double-click on the margin of the Markdown view. Once you are finished editing and want to return to Markdown view, click `"Markdown View" (the icon with the letter M) `in the menu bar.  
+
+{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+
+**Supported Markdown syntax**  
+{{< figure src="/Mizuame-pages/images/tab-help-markdown-syntax.png" title="Settings->Help Tab" >}}
+
+**Unsupported Markdown syntax**  
+- Any syntax not listed under Supported Markdown Syntax.
+
+**Sample**
+{{< figure src="/Mizuame-pages/images/sample-markdown-note.png" title="Write with Markdown syntax" >}}
+
+{{< figure src="/Mizuame-pages/images/sample-markdown-view.png" title="Markdown view" >}}
 
 # Others
 You can change the font size and size of stiky note from "Settings". I don't know if it's a feature you need, but you can also "Printing".  

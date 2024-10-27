@@ -16,6 +16,7 @@ menu:
   - [ライトモード/ダークモード](#ライトモードダークモード)
 - ノートアクション
   - [計算する](#計算する)
+  - [Markdownで書く](#markdown)
 - [その他](#その他)
 
 # 基本
@@ -72,6 +73,27 @@ menu:
 
 最後に、すべての数式は計算できません。例えば、あなたが数学の宿題に取り組んでいて、0.3の0.5乗を計算しなければならないとしても、このアプリでは計算できません。  
 数学の教科書かインターネット、関数電卓を使ってください。  
+
+# Markdown
+Mizuameは一部のMarkdown記法をサポートしています。  
+つまり、利用できる記法と利用できない記法があります。  
+  
+「Markdownビュー機能」を有効にすると、メニューバーからノートを開いた際にMarkdownビューで表示されます。Markdownビューはプレビュー専用であり、ノートの編集はできません。編集を行うには、`メニューバーの「編集」（四角にペンのアイコン）`をクリックするか、Markdownビューの余白をダブルクリックしてください。  
+
+編集が終わり再びMarkdownビューに戻るには、メニューバーの`「Markdownビュー」（Mの文字のアイコン）`をクリックします。  
+
+{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+
+**サポートしているMarkdown記法** 
+{{< figure src="/Mizuame-pages/images/tab-help-markdown-syntax.png" title="設定->ヘルプタブ" >}}
+
+**サポートしていないMarkdown記法**
+- サポートしているMarkdown記法に載っていない記法すべて。
+
+**サンプル**
+{{< figure src="/Mizuame-pages/images/sample-markdown-note.png" title="Markdownでノートを書く" >}}
+
+{{< figure src="/Mizuame-pages/images/sample-markdown-view.png" title="Markdownビュー" >}}
 
 # その他
 アプリの「設定」から、ノートのサイズや文字の大きさを変更できます。あなたが必要としているか分かりませんが「印刷」もできます。

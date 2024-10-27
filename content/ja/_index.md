@@ -16,11 +16,15 @@ cascade:
 
 {{< figure src="/Mizuame-pages/images/demo-gif.gif" title="" >}}
 
+{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+
 # 良いところ、良くないところ
 #### 良いところ
 - メニューバーから直接アクセスできるので、すばやく情報を読み書きできます
 - 一時的なクリップボードの役割を担うことができるので、他の堅牢なノートアプリでの作業を補完できます
 - 簡単な数式を書き込んだだけで、自動で計算します
+- Mizuameは一部のMarkdown記法をサポートしています。  
+  - つまり、利用できる記法と利用できない記法があります。 
 
 #### 良くないところ
 - 他のデバイス（例えば、２台目のMacやiPhone、iPad）とデータを同期できません

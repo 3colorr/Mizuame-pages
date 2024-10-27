@@ -16,11 +16,15 @@ However, this app is NOT a high performance note app so that you should use othe
 
 {{< figure src="/Mizuame-pages/images/demo-gif.gif" title="" >}}
 
+{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+
 # Pros and Cons
 ### Good
 - You can access it directly from the menu bar, allowing you to read and write information quickly.
 - It can serve as a temporary clipboard, complementing your work in other robust note apps.
 - Just by writing a simple formula, it calculates automatically.
+- Mizuame supports some Markdown syntax.
+  - This means that there are supported syntax elements as well as unsupported ones.
 
 ### NOT Good
 - You cannot sync data with other devices. (e.g. Mac, iPhone nad iPad)
