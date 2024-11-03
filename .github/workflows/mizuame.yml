@@ -1,0 +1,12 @@
+name: Mizuame Pages
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    build:
+        runs-on: macos-latest
+        timeout-minutes: 10
+        steps:
+            - run: echo "Hello, world!"
