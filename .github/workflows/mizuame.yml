@@ -1,7 +1,7 @@
-name: MizuamePages
+name: Mizuame Pages
 on: push
 jobs:
     build:
         runs-on: macos-latest
         steps:
-            - runs: echo "Hello, world!"
+            - run: echo "Hello, world!"
