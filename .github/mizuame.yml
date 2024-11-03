@@ -1,5 +1,5 @@
 name: MizuamePages
-on: page_build
+on: push
 jobs:
     build:
         runs-on: macos-latest
