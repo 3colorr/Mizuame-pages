@@ -1,0 +1,7 @@
+name: MizuamePages
+on: page_build
+jobs:
+    build:
+        runs-on: macos-latest
+        steps:
+            - runs: echo "Hello, world!"
