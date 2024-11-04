@@ -76,11 +76,18 @@ Please use a math textbook, the internet, or a scientific calculator.
 Mizuame supports some Markdown syntax.  
 This means that there are supported syntax elements as well as unsupported ones.  
 
+{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+
 When the "Markdown view feature" is enabled, notes opened from the menu bar are displayed in Markdown view. The Markdown view is for preview purposes only, and you cannot edit the notes in this view.  
 
-To edit a note, either click `"Edit" (the icon with a square and pen) in the menu bar`, or double-click on the margin of the Markdown view. Once you are finished editing and want to return to Markdown view, click `"Markdown View" (the icon with the letter M) `in the menu bar.  
+To edit a note, either click `"Edit" (the icon with a square and pen) in the menu bar`, or double-click on the margin of the Markdown view.   
 
-{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+{{< figure src="/Mizuame-pages/images/sample-markdown-menu-2.png" title="Edit icon" >}}
+{{< figure src="/Mizuame-pages/images/sample-markdown-double-click.png" title="double-click on the margin of the Markdown view" >}}
+
+Once you are finished editing and want to return to Markdown view, click `"Markdown View" (the icon with the letter M) `in the menu bar.  
+
+{{< figure src="/Mizuame-pages/images/sample-markdown-menu-1.png" title="Markdown View icon" >}}
 
 **Supported Markdown syntax**  
 {{< figure src="/Mizuame-pages/images/tab-help-markdown-syntax.png" title="Settings->Help Tab" >}}
