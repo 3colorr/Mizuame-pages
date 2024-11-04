@@ -77,12 +77,19 @@ menu:
 # Markdown
 Mizuameは一部のMarkdown記法をサポートしています。  
 つまり、利用できる記法と利用できない記法があります。  
-  
-「Markdownビュー機能」を有効にすると、メニューバーからノートを開いた際にMarkdownビューで表示されます。Markdownビューはプレビュー専用であり、ノートの編集はできません。編集を行うには、`メニューバーの「編集」（四角にペンのアイコン）`をクリックするか、Markdownビューの余白をダブルクリックしてください。  
+
+{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+
+「Markdownビュー機能」を有効にすると、メニューバーからノートを開いた際にMarkdownビューで表示されます。Markdownビューはプレビュー専用であり、ノートの編集はできません。  
+
+編集を行うには、`メニューバーの「編集」（四角にペンのアイコン）`をクリックするか、Markdownビューの余白をダブルクリックしてください。  
+
+{{< figure src="/Mizuame-pages/images/sample-markdown-menu-2.png" title="編集アイコン" >}}
+{{< figure src="/Mizuame-pages/images/sample-markdown-double-click.png" title="Markdownビューの余白をダブルクリックする" >}}
 
 編集が終わり再びMarkdownビューに戻るには、メニューバーの`「Markdownビュー」（Mの文字のアイコン）`をクリックします。  
 
-{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+{{< figure src="/Mizuame-pages/images/sample-markdown-menu-1.png" title="Markdownビューアイコン" >}}
 
 **サポートしているMarkdown記法** 
 {{< figure src="/Mizuame-pages/images/tab-help-markdown-syntax.png" title="設定->ヘルプタブ" >}}
