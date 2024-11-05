@@ -4,9 +4,21 @@ on:
         branches:
             - main
 
+concurency:
+    group: ${{ github.workflow }}
+    cancel-in-progress: false
+
 jobs:
     build:
-        runs-on: macos-latest
+        runs-on: ubuntu-latest
         timeout-minutes: 10
         steps:
             - run: echo "Hello, world!"
+            - name: Install Hugo
+              run: |
+                brew --version
+                brew install hugo
+                hugo version
+            - name: Checkout
+              uses: actions/checkout@v4
+              run: ls -la
