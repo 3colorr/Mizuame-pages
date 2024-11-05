@@ -21,4 +21,5 @@ jobs:
                 hugo version
             - name: Checkout
               uses: actions/checkout@v4
+            - name: Test
               run: ls -la
