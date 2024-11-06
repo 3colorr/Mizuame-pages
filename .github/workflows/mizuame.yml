@@ -21,5 +21,11 @@ jobs:
                 hugo version
             - name: Checkout
               uses: actions/checkout@v4
+            - name: Build with Hugo
+              run: hugo -d public/
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: ./public/
             - name: Test
               run: ls -la
