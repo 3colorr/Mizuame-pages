@@ -21,6 +21,8 @@ jobs:
                 hugo version
             - name: Checkout
               uses: actions/checkout@v4
+            - name: Setup themes
+              run: git clone https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
             - name: Build with Hugo
               run: hugo -d public/
             - name: Upload artifact
