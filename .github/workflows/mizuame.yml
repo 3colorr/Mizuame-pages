@@ -30,4 +30,15 @@ jobs:
               with:
                   path: ./public/
             - name: Test
-              run: ls -la
+              run: |
+                ls -la
+    deploy:
+        environment:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.url}}
+        runs-on: ubuntu-latest
+        needs: build
+        steps:
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4
