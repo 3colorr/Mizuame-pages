@@ -23,11 +23,9 @@ hugo server
 ==> Access localhost:1313/Mizuame-pages/
 ```
 
-After editing some files, I need to build with `hugo` command.  
+After editing some files...  
 
 ```
-hugo -d docs/
-
 git add -A [or files]
 
 git commit -m "commit messages"
