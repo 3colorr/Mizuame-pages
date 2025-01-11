@@ -11,6 +11,7 @@ menu:
   - [The Note](#thenote)
   - [Pin](#pin)
   - [Making Text Black](#makingtextblack)
+  - [Keyboard Shortcuts](#keyboardshortcuts)
 - Design
   - [Themes](#themes)
   - [Light/Dark mode](#light/darkmode)
@@ -32,6 +33,15 @@ With this setting, The notes will always be displayed on top of the other window
 Depending on the app's theme, the color of the text in the note may be yellow or green, which can be hard to see for some people.  
 There are themes where the text color is black, but it's slightly gray. Also, some people may prefer the note's text color to be absolutely gray.  
 With this setting, you can ignore the app's theme and change the color of the text in the note to black, dark gray, or normal gray.  
+
+# KeyboardShortcuts
+You can open the Mizuame by keyboard shortcuts.  
+
+Initially, keyboard shortcuts are `disabled`. You can select a keyboard shortcut you want to use in the general tab of the settings.  
+Next, please add Mizuame to `[Settings] > [Privacy & Security] > [Accessibility]` and grant it accessibility permissions.  
+Then, please `restart Mizuame`.  
+
+If you grant Mizuame accessibility permissions, it can detect whether keys are pressed. However, Mizuame never stores history of key inputs, nor does it transmit them over the network.
 
 # Design
 
