@@ -11,7 +11,8 @@ And we released the Mizuame on the AppStore.
 
 ## New Features
 - You can open the Mizuame by keyboard shortcuts.
-  - To use the shortcut key, please add Mizuame to `[Settings] > [Privacy & Security] > [Accessibility]` and grant it accessibility permissions. Then, please restart Mizuame.
+  - To use the shortcut key, please select a shortcut key in the General tab of Mizuame’s settings.
+  - Next, please add Mizuame to `[Settings] > [Privacy & Security] > [Accessibility]` and grant it accessibility permissions. Then, please restart Mizuame.
   - If you grant Mizuame accessibility permissions, it can detect whether keys are pressed. However, Mizuame never stores history of key inputs, nor does it transmit them over the network.
 
 For more information about the keyboard shortcut, see also...[Features]({{< ref "/features" >}})
