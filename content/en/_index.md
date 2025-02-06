@@ -1,14 +1,12 @@
 ---
 title: "Mizuame"
-description: "This app is a note on menu bar of Mac."
+description: "We help with your ‘just want to jot something down’—instantly and effortlessly."
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/MizuameLogo.png'
 ---
-This app is a note on menu bar of Mac.  
-
-What do you do when you want to store a text for a moment that you don't mind losing later?
-In this case, `Mizuame` may assist you.
+`Mizuame` is a note-taking app you can open instantly from your Mac’s menu bar.  
+It lets you handle quick, throwaway memos and simple calculations with ease.  
 
 However, this app is NOT a high performance note app so that you should use other better apps to save your important data.  
 
@@ -20,7 +18,7 @@ However, this app is NOT a high performance note app so that you should use othe
 
 # Pros and Cons
 ### Good
-- You can access it directly from the menu bar, allowing you to read and write information quickly.
+- You can open it instantly from the menu bar icon or with a shortcut, letting you quickly read and write information.
 - It can serve as a temporary clipboard, complementing your work in other robust note apps.
 - Just by writing a simple formula, it calculates automatically.
 - Mizuame supports some Markdown syntax.
@@ -34,6 +32,8 @@ However, this app is NOT a high performance note app so that you should use othe
 # Install
 ### App Store
 {{< figure src="/Mizuame-pages/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" title="" link="https://apps.apple.com/app/mizuame/id6458394832?mt=12" target="_blank" >}}
+
+Sorry, the app is not available in some regions.  
 
 ### Build
 You should "git clone" from  
