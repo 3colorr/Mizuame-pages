@@ -4,7 +4,7 @@ description: "作者とライセンス"
 featured_image: "/images/MizuameLogo.png"
 menu:
   main:
-    weight: 5
+    weight: 6
 ---
 ## 作者
 - 3colorr (Akira Nakamura)

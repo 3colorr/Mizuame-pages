@@ -4,7 +4,7 @@ description: "プライバシーポリシーと利用規約"
 featured_image: "/images/MizuameLogo.png"
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 # 利用規約
 "Mizuame(当アプリと呼びます)"はAkira Nakamura(3Colorr)(私または作者または著作権者と呼びます)が所有しています。この利用規約では、あなたはユーザーと呼ばれます。  

@@ -4,7 +4,7 @@ description: "Privacy policy and Terms of service"
 featured_image: "/images/MizuameLogo.png"
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 # Terms of service
 "Mizuame (referred to as "The Apps")" is owned by Akira Nakamura(3Colorr). (referred to as "I", "Me", "Our", "We", "The Authors" or "Copyright holders"). You are a "User" or "You" according to this agreement.  
