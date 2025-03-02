@@ -111,7 +111,7 @@ Mizuameは一部のMarkdown記法をサポートしています。
 {{< figure src="/Mizuame-pages/images/ordered-list.png" title="順序付きリスト" >}}
 
 **サポートしていないMarkdown記法**
-- サポートしているMarkdown記法に載っていない記法すべて。
+- サポートしているMarkdown記法に載っていない記法は、すべてサポートしていません。
 
 **サンプル**
 {{< figure src="/Mizuame-pages/images/sample-markdown-note.png" title="Markdownでノートを書く" >}}
