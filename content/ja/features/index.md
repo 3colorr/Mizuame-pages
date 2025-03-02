@@ -102,7 +102,13 @@ Mizuameは一部のMarkdown記法をサポートしています。
 {{< figure src="/Mizuame-pages/images/sample-markdown-menu-1.png" title="Markdownビューアイコン" >}}
 
 **サポートしているMarkdown記法** 
-{{< figure src="/Mizuame-pages/images/tab-help-markdown-syntax.png" title="設定->ヘルプタブ" >}}
+以下のMarkdown記法はMizuameの「設定」>「ヘルプタブ」でも確認できます。
+
+{{< figure src="/Mizuame-pages/images/header.png" title="ヘッダー" >}}
+{{< figure src="/Mizuame-pages/images/bold-itaric-codeblock.png" title="太字、イタリック、コードブロック" >}}
+{{< figure src="/Mizuame-pages/images/formula.png" title="数式" >}}
+{{< figure src="/Mizuame-pages/images/list.png" title="リスト" >}}
+{{< figure src="/Mizuame-pages/images/ordered-list.png" title="順序付きリスト" >}}
 
 **サポートしていないMarkdown記法**
 - サポートしているMarkdown記法に載っていない記法すべて。
