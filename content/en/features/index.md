@@ -100,7 +100,13 @@ Once you are finished editing and want to return to Markdown view, click `"Markd
 {{< figure src="/Mizuame-pages/images/sample-markdown-menu-1.png" title="Markdown View icon" >}}
 
 **Supported Markdown syntax**  
-{{< figure src="/Mizuame-pages/images/tab-help-markdown-syntax.png" title="Settings->Help Tab" >}}
+You can find the following Markdown syntax in the Help tab under Settings in the Mizuame app.
+
+{{< figure src="/Mizuame-pages/images/header.png" title="Header" >}}
+{{< figure src="/Mizuame-pages/images/bold-itaric-codeblock.png" title="Bold, Itaric, Code Block" >}}
+{{< figure src="/Mizuame-pages/images/formula.png" title="Formula" >}}
+{{< figure src="/Mizuame-pages/images/list.png" title="List" >}}
+{{< figure src="/Mizuame-pages/images/ordered-list.png" title="Ordered List" >}}
 
 **Unsupported Markdown syntax**  
 - Any syntax not listed under Supported Markdown Syntax.

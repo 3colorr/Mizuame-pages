@@ -4,7 +4,7 @@ description: "Autor and License"
 featured_image: "/images/MizuameLogo.png"
 menu:
   main:
-    weight: 5
+    weight: 6
 ---
 
 ## Author
