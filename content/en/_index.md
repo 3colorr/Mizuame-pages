@@ -16,6 +16,8 @@ However, this app is NOT a high performance note app so that you should use othe
 
 {{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
 
+---
+
 # Pros and Cons
 ### Good
 - You can open it instantly from the menu bar icon or with a shortcut, letting you quickly read and write information.
@@ -28,6 +30,34 @@ However, this app is NOT a high performance note app so that you should use othe
 - You cannot sync data with other devices. (e.g. Mac, iPhone nad iPad)
 - This app cannot backup your data(e.g. iCloud), so that your data may be lost unintentionally due to device failure.
 - You cannot paste images and movies.
+
+---
+
+# Our Rules
+
+We have established **three core rules** as the fundamental design principles for Mizuame.
+
+### Minimalist Functionality
+
+Mizuame is designed to activate only the essential features by default. This approach is key to delivering the pure experience we intend for Mizuame, ensuring that extraneous functions never dilute its true purpose.
+
+### User-Centric
+
+Most features are disabled by default, allowing users to enable only the functions that best suit their needs. While we will continue to add new features, we operate on the premise that not every user will require every addition.
+
+### Offline
+
+Mizuame is built as a completely offline application. Our goal is to provide consistent performance and a sense of security regardless of the network environment.
+
+## If We Were to Break the Rules
+
+This is a purely hypothetical scenario. In the future, if we ever decide to revisit our current rules, it would likely concern the “Offline” principle.
+
+Specifically, recognizing the significant benefits of synchronizing data across devices, we might consider revising our offline-only policy to enable integration with smartphones and tablets.
+
+However, even in such a case, preserving the core user experience and the strengths that define Mizuame would remain our top priority.
+
+---
 
 # Install
 ### App Store
