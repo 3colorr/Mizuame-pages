@@ -18,7 +18,7 @@ menu:
 - Note Actions
   - [Calculation](#calculation)
   - [Markdown](#markdown)
-- [Othres](#othres)
+- [Others](#others)
 
 # Basic
 
@@ -117,5 +117,19 @@ You can find the following Markdown syntax in the Help tab under Settings in the
 {{< figure src="/Mizuame-pages/images/sample-markdown-view.png" title="Markdown view" >}}
 
 # Others
-You can change the font size and size of stiky note from "Settings". I don't know if it's a feature you need, but you can also "Printing".  
+You can change the font size and size of stiky note from "Settings".
 {{< figure src="/Mizuame-pages/images/sample-bar-image.png" title="Pin, Eraser, Printing and Settings" >}}
+
+From the “Hidden menu” (the ellipsis circle icon), you’ll see options for printing, exporting a note, and importing a note.
+{{< figure src="/Mizuame-pages/images/hidden-menu.png" title="Hidden menu" >}}
+
+**Export Note**  
+This option lets you save the contents of the current note to a file on your Mac.  
+When you select Export Note, a save dialog appears—choose any location you like and save the file.  
+
+**Import Note**  
+This option lets you load a file that was previously exported with Mizuame’s Export Note feature.  
+When you select Import Note, an open-file dialog appears—choose the file you want to import.  
+
+:bulb::bulb::bulb:  
+When you import a note, its contents are appended to the end of your current note.  
