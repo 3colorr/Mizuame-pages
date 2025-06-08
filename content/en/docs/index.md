@@ -44,6 +44,10 @@ There are two way to install Mizuame on your Mac.
 - Gear icon
    - You can customize Mizuame settings.
    - See also [Settings](#settings).
+- Ellipsis Circle icon
+   - Hidden menu
+   - Displays menu items such as Print, Export note, and Import note.
+   - See also [Other features]({{< ref "/features#others" >}}).
 
 ### Settings
 There are a following tabs.
