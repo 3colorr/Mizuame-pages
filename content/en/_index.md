@@ -12,9 +12,7 @@ However, this app is NOT a high performance note app so that you should use othe
 
 {{< figure src="/Mizuame-pages/images/MizuameLogo.png" title="" >}}
 
-{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="" >}}
-
-{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+{{< figure src="/Mizuame-pages/images/demo-top.gif" title="" >}}
 
 ---
 

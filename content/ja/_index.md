@@ -12,9 +12,7 @@ cascade:
 
 {{< figure src="/Mizuame-pages/images/MizuameLogo.png" title="" >}}
 
-{{< figure src="/Mizuame-pages/images/demo-gif.gif" title="" >}}
-
-{{< figure src="/Mizuame-pages/images/demo-markdown.gif" title="" >}}
+{{< figure src="/Mizuame-pages/images/demo-top.gif" title="" >}}
 
 --- 
 
